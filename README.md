@@ -51,6 +51,8 @@ As I continue to evolve in the ever-changing landscape of IT, I'm actively seeki
 • VOIP (CUCM, Asterisk, FreePBX).
 
 ### Networks Engineer - Kaizen365 Technology - Amman,Jordan - NOV-2020-Oct-2022 
+![Kaizen 365 Technology Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fkaizen365-technology&psig=AOvVaw27vEtj7-YkcoZi8hwDs-N6&ust=1709041949593000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDX_8OTyYQDFQAAAAAdAAAAABAE "Khalid AL Shurbaji Logo")
+
 
 In my role as a Networks Engineer at Kaizen365 Technology within the NOC department, I successfully monitored and resolved technical issues for over 40 companies' infrastructures, ensuring timely and effective solutions.
 
