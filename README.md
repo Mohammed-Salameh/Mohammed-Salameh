@@ -1,4 +1,4 @@
-## I am an IT professional with extensive expertise in a multitude of technology sectors. My journey in the IT field has exposed me to diverse areas, allowing me to become proficient in:
+ I am an IT professional with extensive expertise in a multitude of technology sectors. My journey in the IT field has exposed me to diverse areas, allowing me to become proficient in:
 
 • Virtualization: I'm well-versed with tools like Redhat, Ovirt, Oracle, Hyper-V, and VMware.
 
