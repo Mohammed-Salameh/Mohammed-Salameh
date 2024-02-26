@@ -24,7 +24,9 @@ As I continue to evolve in the ever-changing landscape of IT, I'm actively seeki
 
 ## Experience
 
+
 ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4D0BAQGZEBC_2diJQg/company-logo_200_200/0/1630542340120/micronisus_systems_logo?e=1717027200&v=beta&t=kaaFnEd9Q909WAo3i8UgF1172pp0CH-O7nUXM7kW8iM "Kaizen365Technlogy Logo")
+
 
 ### IT Infrastructure Engineer - Micronisus Systems - Dubai, UAE - NOV/2022-Present
 
@@ -54,7 +56,9 @@ As I continue to evolve in the ever-changing landscape of IT, I'm actively seeki
 
 ##
 
+
 ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E0BAQH3skcGVQZjPQ/company-logo_200_200/0/1631310418725?e=1717027200&v=beta&t=GNtEKDCcKwvIEzuWgWpcF5BoW4VXrCFtoRQJ6VEp228 "Kaizen365Technlogy Logo")
+
 
 ### Networks Engineer - Kaizen365 Technology - Amman,Jordan - NOV-2020-Oct-2022 
 
@@ -89,7 +93,9 @@ Played a key role in training team members on new products, sharing knowledge, p
 
 ##
 
+
 ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E0BAQEYzHMjFxxB1w/company-logo_200_200/0/1656936675895/offtec_logo?e=1717027200&v=beta&t=uT2U3RVikY4Pc2sKpvT2LKsQG_TNx-lpiJOEgklDhoA "Kaizen365Technlogy Logo")
+
 
 ### Technical Support Engineer IT Infrastructure - OFFTEC Internatinal - AUG-2018-NOV-2020
 
