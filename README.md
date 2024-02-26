@@ -84,6 +84,7 @@ In my role as a Networks Engineer at Kaizen365 Technology within the NOC departm
 Played a key role in training team members on new products, sharing knowledge, providing support, and fostering a collaborative environment.
 
 ### Technical Support Engineer IT Infrastructure - OFFTEC Internatinal - AUG-2018-NOV-2020
+![OFFTEC Logo]https://media.licdn.com/dms/image/D4E1BAQGSoa2KiKbStQ/company-background_10000/0/1656937300406/offtec_cover?e=1709560800&v=beta&t=Wtn-G_RF9LmqmBQxH5xqmGhgCj735eTmfDBsnOpHy94 "OFFTEC Logo")
 
 In my role as a Technical Support Engineer at OFFTEC within the IT Infrastructures department, I have successfully collaborated with customers, sales teams, product managers, and fellow team members to implement projects and troubleshoot technical issues.
 
