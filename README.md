@@ -26,6 +26,8 @@ As I continue to evolve in the ever-changing landscape of IT, I'm actively seeki
 
 ### IT Infrastructure Engineer - Micronisus Systems - Dubai, UAE - NOV/2022-Present
 
+![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4D0BAQGZEBC_2diJQg/company-logo_200_200/0/1630542340120/micronisus_systems_logo?e=1717027200&v=beta&t=kaaFnEd9Q909WAo3i8UgF1172pp0CH-O7nUXM7kW8iM "Kaizen365Technlogy Logo")
+
 • Virtualization (Redhat, Ovirt, Oracle, XenServer, Hyper-V, VMware).
 
 • Microsoft (Azure AD Connect, ADDS, ADCS, MS 365 administration, GPO's, WSUS, DNS, Exchange, Powershell).
