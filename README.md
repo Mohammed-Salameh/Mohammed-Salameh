@@ -90,6 +90,8 @@ In my role as a Networks Engineer at Kaizen365 Technology within the NOC departm
 
 Played a key role in training team members on new products, sharing knowledge, providing support, and fostering a collaborative environment.
 
+![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E12AQGGZb2k72HFJw/article-cover_image-shrink_423_752/0/1640910958664?e=1714608000&v=beta&t=GFoLxNGBvAcCxu0WuJHNOl8ZOwuenh8zoyLqD6i1AE8 "Kaizen365Technlogy Logo") ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E22AQERxrdPtzLhrg/feedshare-shrink_800/0/1654175673400?e=1711584000&v=beta&t=gFq-6MSuxqhCkZOX5o13MM0x2hU6aPx0I7ImiX4IPl8 "Kaizen365Technlogy Logo")
+
 ##
 
 
@@ -119,5 +121,3 @@ Here are some key highlights of my responsibilities and accomplishments:
 Throughout my tenure, I have consistently delivered exceptional technical support and contributed to the success of project implementations. I take pride in my ability to effectively collaborate with cross-functional teams and provide valuable insights and assistance.
 
 Additionally, provided comprehensive training and implementation support to ensure smooth operations. Throughout my tenure, I have consistently delivered exceptional technical support and contributed to the success of project implementations. I take pride in my ability to effectively collaborate with cross-functional teams and provide valuable insights and assistance.
-
-![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E12AQGGZb2k72HFJw/article-cover_image-shrink_423_752/0/1640910958664?e=1714608000&v=beta&t=GFoLxNGBvAcCxu0WuJHNOl8ZOwuenh8zoyLqD6i1AE8 "Kaizen365Technlogy Logo") ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E22AQERxrdPtzLhrg/feedshare-shrink_800/0/1654175673400?e=1711584000&v=beta&t=gFq-6MSuxqhCkZOX5o13MM0x2hU6aPx0I7ImiX4IPl8 "Kaizen365Technlogy Logo")
