@@ -51,6 +51,7 @@ As I continue to evolve in the ever-changing landscape of IT, I'm actively seeki
 • VOIP (CUCM, Asterisk, FreePBX).
 
 ### Networks Engineer - Kaizen365 Technology - Amman,Jordan - NOV-2020-Oct-2022 
+
 ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E1BAQH53xIpTvQtLg/company-background_1536_768/0/1521240303472?e=1709560800&v=beta&t=1XMSk2lKpO58TlovcPE3kkxSIpGWNjwAXYDUmiFlaEY "Kaizen365Technlogy Logo")
 
 
@@ -84,7 +85,8 @@ In my role as a Networks Engineer at Kaizen365 Technology within the NOC departm
 Played a key role in training team members on new products, sharing knowledge, providing support, and fostering a collaborative environment.
 
 ### Technical Support Engineer IT Infrastructure - OFFTEC Internatinal - AUG-2018-NOV-2020
-![OFFTEC Logo]https://media.licdn.com/dms/image/D4E1BAQGSoa2KiKbStQ/company-background_10000/0/1656937300406/offtec_cover?e=1709560800&v=beta&t=Wtn-G_RF9LmqmBQxH5xqmGhgCj735eTmfDBsnOpHy94 "OFFTEC Logo")
+
+![OFFTEC Logo] (https://media.licdn.com/dms/image/D4E1BAQGSoa2KiKbStQ/company-background_10000/0/1656937300406/offtec_cover?e=1709560800&v=beta&t=Wtn-G_RF9LmqmBQxH5xqmGhgCj735eTmfDBsnOpHy94 "OFFTEC Logo")
 
 In my role as a Technical Support Engineer at OFFTEC within the IT Infrastructures department, I have successfully collaborated with customers, sales teams, product managers, and fellow team members to implement projects and troubleshoot technical issues.
 
