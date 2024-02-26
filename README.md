@@ -1,8 +1,7 @@
 # Mohammad Salameh
 ## Introduction
 
-![https://media.licdn.com/dms/image/D4D16AQEHbapMIh_UNQ/profile-displaybackgroundimage-shrink_350_1400/0/1686837589965?e=1714608000&v=beta&t=TCsd5VzStil_Z-EvC_8dPCFbchfUde5lHwpbE8DRciE]
-(https://media.licdn.com/dms/image/D4D16AQEHbapMIh_UNQ/profile-displaybackgroundimage-shrink_350_1400/0/1686837589965?e=1714608000&v=beta&t=TCsd5VzStil_Z-EvC_8dPCFbchfUde5lHwpbE8DRciE)
+![https://media.licdn.com/dms/image/D4D16AQEHbapMIh_UNQ/profile-displaybackgroundimage-shrink_350_1400/0/1686837589965?e=1714608000&v=beta&t=TCsd5VzStil_Z-EvC_8dPCFbchfUde5lHwpbE8DRciE](https://media.licdn.com/dms/image/D4D16AQEHbapMIh_UNQ/profile-displaybackgroundimage-shrink_350_1400/0/1686837589965?e=1714608000&v=beta&t=TCsd5VzStil_Z-EvC_8dPCFbchfUde5lHwpbE8DRciE")
 I am an IT professional with extensive expertise in a multitude of technology sectors. My journey in the IT field has exposed me to diverse areas, allowing me to become proficient in:
 
 • Virtualization: I'm well-versed with tools like Redhat, Ovirt, Oracle, Hyper-V, and VMware.
