@@ -88,7 +88,7 @@ Played a key role in training team members on new products, sharing knowledge, p
 
 ### Technical Support Engineer IT Infrastructure - OFFTEC Internatinal - AUG-2018-NOV-2020
 
-![Kaizen365Technlogy Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jordanict.com%2F2016%2Fcompany-profile%2Fofftec&psig=AOvVaw2wK3-fczLbOFh0mgxCoDMF&ust=1709042357807000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDD0IaVyYQDFQAAAAAdAAAAABAJ "Kaizen365Technlogy Logo")
+![Kaizen365Technlogy Logo]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.jordanict.com%2F2016%2Fcompany-profile%2Fofftec&psig=AOvVaw2wK3-fczLbOFh0mgxCoDMF&ust=1709042357807000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDD0IaVyYQDFQAAAAAdAAAAABAJ](https://media.licdn.com/dms/image/C4E0BAQEYzHMjFxxB1w/company-logo_200_200/0/1656936675895/offtec_logo?e=1717027200&v=beta&t=uT2U3RVikY4Pc2sKpvT2LKsQG_TNx-lpiJOEgklDhoA) "Kaizen365Technlogy Logo")
 
 In my role as a Technical Support Engineer at OFFTEC within the IT Infrastructures department, I have successfully collaborated with customers, sales teams, product managers, and fellow team members to implement projects and troubleshoot technical issues.
 
