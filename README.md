@@ -52,7 +52,7 @@ As I continue to evolve in the ever-changing landscape of IT, I'm actively seeki
 
 • VOIP (CUCM, Asterisk, FreePBX).
 
-![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E1BAQH53xIpTvQtLg/company-background_1536_768/0/1521240303472?e=1709560800&v=beta&t=1XMSk2lKpO58TlovcPE3kkxSIpGWNjwAXYDUmiFlaEY "Kaizen365Technlogy Logo")
+![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E0BAQH3skcGVQZjPQ/company-logo_200_200/0/1631310418725?e=1717027200&v=beta&t=GNtEKDCcKwvIEzuWgWpcF5BoW4VXrCFtoRQJ6VEp228 "Kaizen365Technlogy Logo")
 
 ### Networks Engineer - Kaizen365 Technology - Amman,Jordan - NOV-2020-Oct-2022 
 
