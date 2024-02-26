@@ -52,6 +52,8 @@ As I continue to evolve in the ever-changing landscape of IT, I'm actively seeki
 
 • VOIP (CUCM, Asterisk, FreePBX).
 
+##
+
 ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E0BAQH3skcGVQZjPQ/company-logo_200_200/0/1631310418725?e=1717027200&v=beta&t=GNtEKDCcKwvIEzuWgWpcF5BoW4VXrCFtoRQJ6VEp228 "Kaizen365Technlogy Logo")
 
 ### Networks Engineer - Kaizen365 Technology - Amman,Jordan - NOV-2020-Oct-2022 
@@ -84,6 +86,8 @@ In my role as a Networks Engineer at Kaizen365 Technology within the NOC departm
 • Helpdesk Services.
 
 Played a key role in training team members on new products, sharing knowledge, providing support, and fostering a collaborative environment.
+
+##
 
 ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E0BAQEYzHMjFxxB1w/company-logo_200_200/0/1656936675895/offtec_logo?e=1717027200&v=beta&t=uT2U3RVikY4Pc2sKpvT2LKsQG_TNx-lpiJOEgklDhoA "Kaizen365Technlogy Logo")
 
