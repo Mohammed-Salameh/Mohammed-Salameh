@@ -90,7 +90,9 @@ In my role as a Networks Engineer at Kaizen365 Technology within the NOC departm
 
 Played a key role in training team members on new products, sharing knowledge, providing support, and fostering a collaborative environment.
 
-![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E12AQGGZb2k72HFJw/article-cover_image-shrink_423_752/0/1640910958664?e=1714608000&v=beta&t=GFoLxNGBvAcCxu0WuJHNOl8ZOwuenh8zoyLqD6i1AE8 "Kaizen365Technlogy Logo") ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E22AQERxrdPtzLhrg/feedshare-shrink_800/0/1654175673400?e=1711584000&v=beta&t=gFq-6MSuxqhCkZOX5o13MM0x2hU6aPx0I7ImiX4IPl8 "Kaizen365Technlogy Logo")
+![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4D2DAQHz1DyzaGWjvg/profile-treasury-image-shrink_800_800/0/1636659476066?e=1709564400&v=beta&t=g4q5UqvnQ0LtZzZ57H8u7seyvwS4n0pq-rj9z2XZCoE "Kaizen365Technlogy Logo")
+![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4D2DAQHSau7XpQbKqQ/profile-treasury-image-shrink_800_800/0/1636659711832?e=1709564400&v=beta&t=d3Ht9qOYmHGPanfWLQF_o6DuwU5NiXxMx45NLjhOqFc "Kaizen365Technlogy Logo")
+
 
 ##
 
