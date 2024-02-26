@@ -3,6 +3,8 @@
 
 ![My Logo](https://media.licdn.com/dms/image/D4D16AQEHbapMIh_UNQ/profile-displaybackgroundimage-shrink_350_1400/0/1686837589965?e=1714608000&v=beta&t=TCsd5VzStil_Z-EvC_8dPCFbchfUde5lHwpbE8DRciE "My Logo")
 
+![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E12AQGGZb2k72HFJw/article-cover_image-shrink_423_752/0/1640910958664?e=1714608000&v=beta&t=GFoLxNGBvAcCxu0WuJHNOl8ZOwuenh8zoyLqD6i1AE8 "Kaizen365Technlogy Logo") ![Kaizen365Technlogy Logo](https://scontent.fruh4-3.fna.fbcdn.net/v/t1.6435-9/159995035_3769324253122086_681344434306589996_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=HdKd4zASjs8AX9g7Koi&_nc_ht=scontent.fruh4-3.fna&oh=00_AfCfFBz9pdUjSuM6BBxNhS6Bw9CWoOBAFJ58nCUlWRIw-A&oe=66040BC7 "Kaizen365Technlogy Logo")
+
 
 I am an IT professional with extensive expertise in a multitude of technology sectors. My journey in the IT field has exposed me to diverse areas, allowing me to become proficient in:
 
