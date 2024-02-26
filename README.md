@@ -3,9 +3,6 @@
 
 ![My Logo](https://media.licdn.com/dms/image/D4D16AQEHbapMIh_UNQ/profile-displaybackgroundimage-shrink_350_1400/0/1686837589965?e=1714608000&v=beta&t=TCsd5VzStil_Z-EvC_8dPCFbchfUde5lHwpbE8DRciE "My Logo")
 
-![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E12AQGGZb2k72HFJw/article-cover_image-shrink_423_752/0/1640910958664?e=1714608000&v=beta&t=GFoLxNGBvAcCxu0WuJHNOl8ZOwuenh8zoyLqD6i1AE8 "Kaizen365Technlogy Logo") ![Kaizen365Technlogy Logo](https://scontent.fruh4-3.fna.fbcdn.net/v/t1.6435-9/159995035_3769324253122086_681344434306589996_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=dd63ad&_nc_ohc=HdKd4zASjs8AX9g7Koi&_nc_ht=scontent.fruh4-3.fna&oh=00_AfCfFBz9pdUjSuM6BBxNhS6Bw9CWoOBAFJ58nCUlWRIw-A&oe=66040BC7 "Kaizen365Technlogy Logo")
-
-
 I am an IT professional with extensive expertise in a multitude of technology sectors. My journey in the IT field has exposed me to diverse areas, allowing me to become proficient in:
 
 • Virtualization: I'm well-versed with tools like Redhat, Ovirt, Oracle, Hyper-V, and VMware.
@@ -122,3 +119,5 @@ Here are some key highlights of my responsibilities and accomplishments:
 Throughout my tenure, I have consistently delivered exceptional technical support and contributed to the success of project implementations. I take pride in my ability to effectively collaborate with cross-functional teams and provide valuable insights and assistance.
 
 Additionally, provided comprehensive training and implementation support to ensure smooth operations. Throughout my tenure, I have consistently delivered exceptional technical support and contributed to the success of project implementations. I take pride in my ability to effectively collaborate with cross-functional teams and provide valuable insights and assistance.
+
+![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E12AQGGZb2k72HFJw/article-cover_image-shrink_423_752/0/1640910958664?e=1714608000&v=beta&t=GFoLxNGBvAcCxu0WuJHNOl8ZOwuenh8zoyLqD6i1AE8 "Kaizen365Technlogy Logo") ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4E22AQERxrdPtzLhrg/feedshare-shrink_800/0/1654175673400?e=1711584000&v=beta&t=gFq-6MSuxqhCkZOX5o13MM0x2hU6aPx0I7ImiX4IPl8 "Kaizen365Technlogy Logo")
