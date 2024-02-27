@@ -21,7 +21,7 @@
 
 <h3 align="center"> IT Infrastructure Engineer - Micronisus Systems - Dubai, UAE - NOV/2022-Present </h3>
 
-As an IT Infrastructure Engineer at Micronisus Systems, I play a pivotal role in developing, deploying, and managing complex IT infrastructure solutions. My expertise spans a broad spectrum of technologies and platforms, enabling me to make significant contributions to the organization's IT capabilities and service delivery.
+> As an IT Infrastructure Engineer at Micronisus Systems, I play a pivotal role in developing, deploying, and managing complex IT infrastructure solutions. My expertise spans a broad spectrum of technologies and platforms, enabling me to make significant contributions to the organization's IT capabilities and service delivery.
 
 - Specialize in a wide array of virtualization technologies including Redhat, Ovirt, Oracle, XenServer, Hyper-V, and VMware, driving efficiency and scalability in IT operations.
 
@@ -43,7 +43,7 @@ As an IT Infrastructure Engineer at Micronisus Systems, I play a pivotal role in
 
 - Deploy and manage VOIP systems (CUCM, Asterisk FreePBX), enhancing communication capabilities and reliability.
 
-My ongoing contributions to Micronisus Systems are not only technical but also strategic, ensuring that the IT infrastructure aligns with the organization's goals and adapts to the dynamic IT landscape. Through collaboration and continuous learning, I help to foster an environment of innovation and operational excellence.
+> My ongoing contributions to Micronisus Systems are not only technical but also strategic, ensuring that the IT infrastructure aligns with the organization's goals and adapts to the dynamic IT landscape. Through collaboration and continuous learning, I help to foster an environment of innovation and operational excellence.
 
 ##
 
@@ -55,33 +55,33 @@ My ongoing contributions to Micronisus Systems are not only technical but also s
 
 <h3 align="center"> Networks Engineer - Kaizen365 Technology - Amman,Jordan - NOV-2020-Oct-2022 </h3>
 
-As a Networks Engineer at Kaizen365 Technology within the Network Operations Center (NOC), I monitored and resolved technical challenges for infrastructures across over 40 companies, ensuring swift and efficient problem-solving to maintain seamless operations.
+> As a Networks Engineer at Kaizen365 Technology within the Network Operations Center (NOC), I monitored and resolved technical challenges for infrastructures across over 40 companies, ensuring swift and efficient problem-solving to maintain seamless operations.
 
-• Leveraged expertise in virtualization technologies, including Hyper-V and VMware, to enhance infrastructure efficiency and resilience.
+- Leveraged expertise in virtualization technologies, including Hyper-V and VMware, to enhance infrastructure efficiency and resilience.
 
-• Executed advanced backup and recovery protocols using tools such as Veeam, Altaro, Veritas, and Acronis, safeguarding data integrity and system availability.
+- Executed advanced backup and recovery protocols using tools such as Veeam, Altaro, Veritas, and Acronis, safeguarding data integrity and system availability.
 
-• Orchestrated comprehensive files and folders backup systems utilizing platforms like Druva, Code 42, Zoolz, OneDrive, and Google Drive, ensuring critical data protection.
+- Orchestrated comprehensive files and folders backup systems utilizing platforms like Druva, Code 42, Zoolz, OneDrive, and Google Drive, ensuring critical data protection.
 
-• Administered and optimized storage solutions, including NAS (Dell PowerVault) and SAN (NetGear, Synology, QNAP), to meet scalable and secure data storage requirements.
+- Administered and optimized storage solutions, including NAS (Dell PowerVault) and SAN (NetGear, Synology, QNAP), to meet scalable and secure data storage requirements.
 
-• Managed Microsoft technologies, including ADDS, WSUS, DHCP, DNS, GPO, FileServer, and Windows Server, to bolster network efficiency and security.
+- Managed Microsoft technologies, including ADDS, WSUS, DHCP, DNS, GPO, FileServer, and Windows Server, to bolster network efficiency and security.
 
-• Configured and maintained firewalls (Sophos, SonicWall, FortiGate) to strengthen network defenses and protect against emerging cyber threats.
+- Configured and maintained firewalls (Sophos, SonicWall, FortiGate) to strengthen network defenses and protect against emerging cyber threats.
 
-• Deployed endpoint security measures (Webroot, Sophos, Kaspersky, TrendMicro) to safeguard against malware and enhance security posture.
+- Deployed endpoint security measures (Webroot, Sophos, Kaspersky, TrendMicro) to safeguard against malware and enhance security posture.
 
-• Oversaw the installation and maintenance of server hardware, such as Dell PowerEdge, Lenovo ThinkSystems, HP Proliant, and IBM X Series, ensuring optimal performance and reliability.
+- Oversaw the installation and maintenance of server hardware, such as Dell PowerEdge, Lenovo ThinkSystems, HP Proliant, and IBM X Series, ensuring optimal performance and reliability.
 
-• Specialized in server conversion strategies, including physical to virtual (P2V), virtual to virtual (V2V) across platforms like Hyper-V to VMware and XenServer to VMware (and vice versa), facilitating strategic IT infrastructure transitions and enhancements.
+- Specialized in server conversion strategies, including physical to virtual (P2V), virtual to virtual (V2V) across platforms like Hyper-V to VMware and XenServer to VMware (and vice versa), facilitating strategic IT infrastructure transitions and enhancements.
 
-• Implemented Threatlocker for advanced network protection, minimizing security vulnerabilities and threats.
+- Implemented Threatlocker for advanced network protection, minimizing security vulnerabilities and threats.
 
-• Utilized monitoring tools like HostMonitor for proactive IT infrastructure management, preempting issues to avoid operational disruptions.
+- Utilized monitoring tools like HostMonitor for proactive IT infrastructure management, preempting issues to avoid operational disruptions.
 
-• Delivered top-tier helpdesk services, swiftly addressing and resolving user issues to enhance satisfaction and minimize downtime.
+- Delivered top-tier helpdesk services, swiftly addressing and resolving user issues to enhance satisfaction and minimize downtime.
 
-Additionally, I was instrumental in mentoring team members on new technologies and products, fostering a collaborative and knowledge-rich environment, and ensuring the team remained at the forefront of industry best practices and innovations.
+> Additionally, I was instrumental in mentoring team members on new technologies and products, fostering a collaborative and knowledge-rich environment, and ensuring the team remained at the forefront of industry best practices and innovations.
 
 ##
 
@@ -92,45 +92,45 @@ Additionally, I was instrumental in mentoring team members on new technologies a
 
 <h3 align="center"> Technical Support Engineer IT Infrastructure - OFFTEC Internatinal - AUG-2018-NOV-2020 </h3>
 
-In my role as a Technical Support Engineer at OFFTEC within the IT Infrastructures department, I have successfully collaborated with customers, sales teams, product managers, and fellow team members to implement projects and troubleshoot technical issues.
+> In my role as a Technical Support Engineer at OFFTEC within the IT Infrastructures department, I have successfully collaborated with customers, sales teams, product managers, and fellow team members to implement projects and troubleshoot technical issues.
 
 Here are some key highlights of my responsibilities and accomplishments:
 
-• Conduct thorough research to identify and resolve software and hardware issues, ensuring optimal system performance.
+- Conduct thorough research to identify and resolve software and hardware issues, ensuring optimal system performance.
   
-• Provide exceptional end-user support, guiding clients through troubleshooting procedures with patience and clarity.
+- Provide exceptional end-user support, guiding clients through troubleshooting procedures with patience and clarity.
   
-• Proactively follow up with clients post-troubleshooting to confirm their IT systems are operating smoothly, enhancing customer satisfaction.
+- Proactively follow up with clients post-troubleshooting to confirm their IT systems are operating smoothly, enhancing customer satisfaction.
   
-• Foster positive relationships with clients, maintaining a friendly yet professional demeanor to build trust and loyalty.
+- Foster positive relationships with clients, maintaining a friendly yet professional demeanor to build trust and loyalty.
   
-• Collaborate effectively with internal teams, including support, sales, engineering, and product management, to drive seamless operations and cross-functional success.
+- Collaborate effectively with internal teams, including support, sales, engineering, and product management, to drive seamless operations and cross-functional success.
   
-• Demonstrate dedication to task completion, working diligently until resolution or efficiently delegating to third parties when necessary.
+- Demonstrate dedication to task completion, working diligently until resolution or efficiently delegating to third parties when necessary.
   
-• Expertise in configuring and managing a diverse range of technology solutions, including CCTV systems (e.g., Wisenet, Dahua, Milesight), access control (Virdi), and operating systems (Linux, Windows).
+- Expertise in configuring and managing a diverse range of technology solutions, including CCTV systems (e.g., Wisenet, Dahua, Milesight), access control (Virdi), and operating systems (Linux, Windows).
   
-• Skillfully set up and configure hardware, software, and devices to establish functional workstations across various organizations.
+- Skillfully set up and configure hardware, software, and devices to establish functional workstations across various organizations.
   
-• Simplify complex technical concepts for non-technical audiences, ensuring clear understanding and effective communication.
+- Simplify complex technical concepts for non-technical audiences, ensuring clear understanding and effective communication.
   
-• Execute on-premises server installations for Digital Signage software (e.g., Innova, Navori), enhancing digital communication strategies.
+- Execute on-premises server installations for Digital Signage software (e.g., Innova, Navori), enhancing digital communication strategies.
   
-• Implement and configure critical IT infrastructure components, including Avtech Room Alert systems, Datacard CD800, Avision Scanners, and APC Smart UPS, ensuring reliable and efficient operations.
+- Implement and configure critical IT infrastructure components, including Avtech Room Alert systems, Datacard CD800, Avision Scanners, and APC Smart UPS, ensuring reliable and efficient operations.
   
-• Successfully deploy and manage specialized systems such as Absen LED Displays and Tramigo Tracking software, catering to specific organizational needs.
+- Successfully deploy and manage specialized systems such as Absen LED Displays and Tramigo Tracking software, catering to specific organizational needs.
   
-• Respond swiftly to IT support inquiries, effectively resolving issues to minimize downtime and support continuous operations.
+- Respond swiftly to IT support inquiries, effectively resolving issues to minimize downtime and support continuous operations.
    
-• Lead and mentor team members on product knowledge and troubleshooting techniques, elevating team capabilities and service quality.
+- Lead and mentor team members on product knowledge and troubleshooting techniques, elevating team capabilities and service quality.
   
-• Implement Dell PowerEdge servers for government and private sectors, ensuring high-performance solutions and integration excellence.
+- Implement Dell PowerEdge servers for government and private sectors, ensuring high-performance solutions and integration excellence.
   
-• Master the implementation, migration, and troubleshooting of critical Windows server roles, including ADDS, DNS, DHCP, and WSUS, to support secure and efficient network management.
+- Master the implementation, migration, and troubleshooting of critical Windows server roles, including ADDS, DNS, DHCP, and WSUS, to support secure and efficient network management.
   
-• Customize Digital Signage and Datacard CD800 Plastic Card printer solutions, including conducting POCs and offering comprehensive training, to meet diverse client needs and ensure operational effectiveness.
+- Customize Digital Signage and Datacard CD800 Plastic Card printer solutions, including conducting POCs and offering comprehensive training, to meet diverse client needs and ensure operational effectiveness.
 
-Throughout my tenure, I have consistently delivered exceptional technical support and contributed to the success of project implementations. I take pride in my ability to effectively collaborate with cross-functional teams and provide valuable insights and assistance.
+> Throughout my tenure, I have consistently delivered exceptional technical support and contributed to the success of project implementations. I take pride in my ability to effectively collaborate with cross-functional teams and provide valuable insights and assistance.
 
 <h2 align="center"> Certifications & Courses </h2>
 
