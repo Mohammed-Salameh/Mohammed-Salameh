@@ -1,8 +1,6 @@
 <p align="center">
-    <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/000978ae-de90-40e8-81f0-b289ebd34d4a" alt="Material Bread logo">
+    <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/c4e3a4ef-6185-480a-bc89-7742de02b577" alt="Material Bread logo">
 </p>
-
-
 
 <h1 align="center"> Introduction </h1>
 
