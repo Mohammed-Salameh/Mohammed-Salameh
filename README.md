@@ -53,7 +53,7 @@ Throughout my career, I've been driven by a passion for technology and a commitm
 > My ongoing contributions to Micronisus Systems are not only technical but also strategic, ensuring that the IT infrastructure aligns with the organization's goals and adapts to the dynamic IT landscape. Through collaboration and continuous learning, I help to foster an environment of innovation and operational excellence.
 
 <p align="center">
-    <img width="700" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/19c1889a-31db-4751-b913-b1f7fcdedb3d](https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/c68f205b-ef67-4dea-8317-12f5d0914644" alt="Material Bread logo">
+    <img width="700" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/a4db5003-e4cb-4fa5-be40-609f1e31a887" alt="Material Bread logo">
 </p>
 
 
@@ -97,9 +97,8 @@ Throughout my career, I've been driven by a passion for technology and a commitm
 > Additionally, I was instrumental in mentoring team members on new technologies and products, fostering a collaborative and knowledge-rich environment, and ensuring the team remained at the forefront of industry best practices and innovations.
 
 <p align="center">
-    <img width="700" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/19c1889a-31db-4751-b913-b1f7fcdedb3d](https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/c68f205b-ef67-4dea-8317-12f5d0914644" alt="Material Bread logo">
+    <img width="700" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/a4db5003-e4cb-4fa5-be40-609f1e31a887" alt="Material Bread logo">
 </p>
-
 
 ##
 
@@ -152,9 +151,8 @@ Here are some key highlights of my responsibilities and accomplishments:
 > Throughout my tenure, I have consistently delivered exceptional technical support and contributed to the success of project implementations. I take pride in my ability to effectively collaborate with cross-functional teams and provide valuable insights and assistance.
 
 <p align="center">
-    <img width="700" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/19c1889a-31db-4751-b913-b1f7fcdedb3d](https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/c68f205b-ef67-4dea-8317-12f5d0914644" alt="Material Bread logo">
+    <img width="700" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/a4db5003-e4cb-4fa5-be40-609f1e31a887" alt="Material Bread logo">
 </p>
-
 
 <h2 align="center"> Certifications & Courses </h2>
 
@@ -179,6 +177,7 @@ Here are some key highlights of my responsibilities and accomplishments:
 <p align="center">
     <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/04ceee90-bd6d-4d57-b82f-e40320f97c8c" alt="Material Bread logo">
 </p>
+
 
 
 
