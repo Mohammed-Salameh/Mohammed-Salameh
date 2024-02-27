@@ -18,9 +18,11 @@ Throughout my career, I've been driven by a passion for technology and a commitm
 
 ## Experience
 
+<center>
 
 ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4D0BAQGZEBC_2diJQg/company-logo_200_200/0/1630542340120/micronisus_systems_logo?e=1717027200&v=beta&t=kaaFnEd9Q909WAo3i8UgF1172pp0CH-O7nUXM7kW8iM "Kaizen365Technlogy Logo")
 
+</center>
 
 ### IT Infrastructure Engineer - Micronisus Systems - Dubai, UAE - NOV/2022-Present
 
