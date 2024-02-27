@@ -132,9 +132,9 @@ Here are some key highlights of my responsibilities and accomplishments:
 
 Throughout my tenure, I have consistently delivered exceptional technical support and contributed to the success of project implementations. I take pride in my ability to effectively collaborate with cross-functional teams and provide valuable insights and assistance.
 
-## Certifications & Courses
+<h2 align="center"> Certifications & Courses </h2>
 
-**Sophos**
+<h3 align="center"> Sophos </h3>
 
 ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4D2DAQHz1DyzaGWjvg/profile-treasury-image-shrink_800_800/0/1636659476066?e=1709564400&v=beta&t=g4q5UqvnQ0LtZzZ57H8u7seyvwS4n0pq-rj9z2XZCoE "Kaizen365Technlogy Logo")
 ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4D2DAQHSau7XpQbKqQ/profile-treasury-image-shrink_800_800/0/1636659711832?e=1709564400&v=beta&t=d3Ht9qOYmHGPanfWLQF_o6DuwU5NiXxMx45NLjhOqFc "Kaizen365Technlogy Logo")
