@@ -1,25 +1,16 @@
-# Mohammad Salameh
-## Introduction
+**Introduction**
 
 ![My Logo](https://media.licdn.com/dms/image/D4D16AQEHbapMIh_UNQ/profile-displaybackgroundimage-shrink_350_1400/0/1686837589965?e=1714608000&v=beta&t=TCsd5VzStil_Z-EvC_8dPCFbchfUde5lHwpbE8DRciE "My Logo")
 
-I am an IT professional with extensive expertise in a multitude of technology sectors. My journey in the IT field has exposed me to diverse areas, allowing me to become proficient in:
+With a career deeply rooted in IT infrastructure engineering, my professional journey has been characterized by a relentless pursuit of excellence and innovation. Starting as a Technical Support Engineer at OFFTEC International, I quickly honed my skills in troubleshooting, customer support, and the deployment of complex IT solutions. My dedication to enhancing technical operations and ensuring optimal system performance has been a constant throughout my roles, culminating in my current position as an IT Infrastructure Engineer at Micronisus Systems in Dubai, UAE.
 
-• Virtualization: I'm well-versed with tools like Redhat, Ovirt, Oracle, Hyper-V, and VMware.
+At Micronisus Systems, my role is multifaceted, encompassing the development, deployment, and management of sophisticated IT infrastructure solutions across a diverse technological landscape. I specialize in a wide range of virtualization technologies, including Redhat, Ovirt, Oracle, XenServer, Hyper-V, and VMware, which are pivotal for driving operational efficiency and scalability. My expertise also extends to managing critical Microsoft infrastructure components, Linux environments, AWS Services, and implementing comprehensive network security measures. 
 
-• Microsoft Services: My experience encompasses Azure AD Connect, Active Directory, Certification Services, MS 365 administration, GPO's, WSUS, DNS, Exchange, and many more.
+In addition to my technical prowess, I place a strong emphasis on automation, monitoring, and the deployment of cutting-edge technologies to enhance IT infrastructure reliability and performance. My work is not just about maintaining systems but strategically aligning IT capabilities with organizational goals to navigate the dynamic IT landscape effectively.
 
-• Linux & Operating Systems: I'm adept with Open Source Tools, Linux administration, and I've managed systems like Windows Server 2008/12/19/22.
+Prior to joining Micronisus Systems, I contributed significantly to the Network Operations Center at Kaizen365 Technology, Amman, Jordan. Here, my focus was on network efficiency, data integrity, and security across over 40 companies. My ability to troubleshoot, implement backup and recovery protocols, manage storage solutions, and configure network defenses underscored my commitment to maintaining seamless operations and safeguarding data against emerging cyber threats.
 
-• Cloud Services: I've worked on AWS services such as EC2, S3, VPC, Route 53, IAM, and more.
-
-• Network & Security: My knowledge includes handling firewalls from Vyos, Sophos, SonicWall, to FortiGate with services such as IPSEC, OpenConnect, OpenVPN, and more. I'm also experienced with routers and switches from brands like Microtik, Cisco, TPLink, and Vyos. My security expertise extends to endpoint security with tools like Webroot, Sophos, Kaspersky, and TrendMicro.
-
-• Hardware & Monitoring: I've dealt with server hardware including Dell PowerEdge, Lenovo ThinkSystems, HP Proliant, and IBM X Series. For monitoring, I use tools like Prometheus, Grafana, Loki, Graphite, and HostMonitor.
-
-• Automation & Backup: My automation skill set includes tools like Ansible, GitHub, Docker, and Kubernetes. I also specialize in backup and recovery, working with Restic, Veeam, Altaro, Veritas, Acronis, and more.
-
-As I continue to evolve in the ever-changing landscape of IT, I'm actively seeking new partnerships, projects, and collaborations to further harness my skills and contribute to innovative solutions.
+Throughout my career, I've been driven by a passion for technology and a commitment to excellence. My journey from OFFTEC International to Micronisus Systems reflects a continuous learning curve and an unwavering dedication to enhancing IT infrastructure. Through collaboration, innovation, and strategic thinking, I aim to contribute to the ongoing success and resilience of the organizations I serve, ensuring they remain at the forefront of their respective industries.
 
 ## Experience
 
