@@ -86,17 +86,6 @@ Additionally, I was instrumental in mentoring team members on new technologies a
 ##
 
 <p align="center">
-￼
-BreadcrumbsMohammed-Salameh
-/
-￼
-in
-main
-Cancel changes
-￼
-Commit changes...
-￼
-
     <img width="200" src="https://media.licdn.com/dms/image/C4E0BAQEYzHMjFxxB1w/company-logo_200_200/0/1656936675895/offtec_logo?e=1717027200&v=beta&t=uT2U3RVikY4Pc2sKpvT2LKsQG_TNx-lpiJOEgklDhoA" alt="Material Bread logo">
 </p>
 
