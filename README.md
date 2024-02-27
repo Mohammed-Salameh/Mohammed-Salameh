@@ -61,34 +61,33 @@ As I continue to evolve in the ever-changing landscape of IT, I'm actively seeki
 
 ### Networks Engineer - Kaizen365 Technology - Amman,Jordan - NOV-2020-Oct-2022 
 
-In my role as a Networks Engineer at Kaizen365 Technology within the NOC department, I successfully monitored and resolved technical issues for over 40 companies' infrastructures, ensuring timely and effective solutions.
+As a Networks Engineer at Kaizen365 Technology within the Network Operations Center (NOC), I monitored and resolved technical challenges for infrastructures across over 40 companies, ensuring swift and efficient problem-solving to maintain seamless operations.
 
+• Leveraged expertise in virtualization technologies, including Hyper-V and VMware, to enhance infrastructure efficiency and resilience.
 
-• Virtualization (Hyper-V, VMware).
+• Executed advanced backup and recovery protocols using tools such as Veeam, Altaro, Veritas, and Acronis, safeguarding data integrity and system availability.
 
-• Backup & Recovery (Veeam, Altaro, Veritas, Acronis).
+• Orchestrated comprehensive files and folders backup systems utilizing platforms like Druva, Code 42, Zoolz, OneDrive, and Google Drive, ensuring critical data protection.
 
-• Files & Folders Backup (Druva, Code 42, Zoolz, OneDrive, GoogleDrive).
+• Administered and optimized storage solutions, including NAS (Dell PowerVault) and SAN (NetGear, Synology, QNAP), to meet scalable and secure data storage requirements.
 
-• Storage (NAS (Dell PowerVault), SAN (NetGear, Synology, QNAP).
+• Managed Microsoft technologies, including ADDS, WSUS, DHCP, DNS, GPO, FileServer, and Windows Server, to bolster network efficiency and security.
 
-• Microsoft Technologies (ADDS, WSUS, DHCP, DNS, GPO, FileServer, Windows Server Administration).
+• Configured and maintained firewalls (Sophos, SonicWall, FortiGate) to strengthen network defenses and protect against emerging cyber threats.
 
-• Firewalls (Sophos, SonicWall, FortiGate).
+• Deployed endpoint security measures (Webroot, Sophos, Kaspersky, TrendMicro) to safeguard against malware and enhance security posture.
 
-• Endpoint Security (Webroot, Sophos, Kaspersky, TrendMicro).
+• Oversaw the installation and maintenance of server hardware, such as Dell PowerEdge, Lenovo ThinkSystems, HP Proliant, and IBM X Series, ensuring optimal performance and reliability.
 
-• Server Hardware (Dell PowerEdge, Lenovo ThinkSystems, HP Proliant, IBM X Series).
+• Specialized in server conversion strategies, including physical to virtual (P2V), virtual to virtual (V2V) across platforms like Hyper-V to VMware and XenServer to VMware (and vice versa), facilitating strategic IT infrastructure transitions and enhancements.
 
-• Conversion (P2V, V2V, V2P).
+• Implemented Threatlocker for advanced network protection, minimizing security vulnerabilities and threats.
 
-• Network Protection (Threatlocker).
+• Utilized monitoring tools like HostMonitor for proactive IT infrastructure management, preempting issues to avoid operational disruptions.
 
-• Monitoring (HostMonitor).
+• Delivered top-tier helpdesk services, swiftly addressing and resolving user issues to enhance satisfaction and minimize downtime.
 
-• Helpdesk Services.
-
-Played a key role in training team members on new products, sharing knowledge, providing support, and fostering a collaborative environment.
+Additionally, I was instrumental in mentoring team members on new technologies and products, fostering a collaborative and knowledge-rich environment, and ensuring the team remained at the forefront of industry best practices and innovations.
 
 ##
 
