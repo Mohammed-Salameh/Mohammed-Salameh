@@ -20,7 +20,7 @@ Throughout my career, I've been driven by a passion for technology and a commitm
 
 
 <h3 align="center"> IT Infrastructure Engineer - Micronisus Systems - Dubai, UAE - NOV/2022-Present </h3>
-#
+
 As an IT Infrastructure Engineer at Micronisus Systems, I play a pivotal role in developing, deploying, and managing complex IT infrastructure solutions. My expertise spans a broad spectrum of technologies and platforms, enabling me to make significant contributions to the organization's IT capabilities and service delivery.
 
 • Specialize in a wide array of virtualization technologies including Redhat, Ovirt, Oracle, XenServer, Hyper-V, and VMware, driving efficiency and scalability in IT operations.
