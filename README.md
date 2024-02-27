@@ -2,15 +2,26 @@
 
 <h1 align="center"> Introduction </h1>
 
+<p align="center">
 With a career deeply rooted in IT infrastructure engineering, my professional journey has been characterized by a relentless pursuit of excellence and innovation. Starting as a Technical Support Engineer at OFFTEC International, I quickly honed my skills in troubleshooting, customer support, and the deployment of complex IT solutions. My dedication to enhancing technical operations and ensuring optimal system performance has been a constant throughout my roles, culminating in my current position as an IT Infrastructure Engineer at Micronisus Systems in Dubai, UAE.
+</p>
 
-At Micronisus Systems, my role is multifaceted, encompassing the development, deployment, and management of sophisticated IT infrastructure solutions across a diverse technological landscape. I specialize in a wide range of virtualization technologies, including Redhat, Ovirt, Oracle, XenServer, Hyper-V, and VMware, which are pivotal for driving operational efficiency and scalability. My expertise also extends to managing critical Microsoft infrastructure components, Linux environments, AWS Services, and implementing comprehensive network security measures. 
+<p align="center">
+At Micronisus Systems, my role is multifaceted, encompassing the development, deployment, and management of sophisticated IT infrastructure solutions across a diverse technological landscape. I specialize in a wide range of virtualization technologies, including Redhat, Ovirt, Oracle, XenServer, Hyper-V, and VMware, which are pivotal for driving operational efficiency and scalability. My expertise also extends to managing critical Microsoft infrastructure components, Linux environments, AWS Services, and implementing comprehensive network security measures.
+</p>
 
+<p align="center">
 In addition to my technical prowess, I place a strong emphasis on automation, monitoring, and the deployment of cutting-edge technologies to enhance IT infrastructure reliability and performance. My work is not just about maintaining systems but strategically aligning IT capabilities with organizational goals to navigate the dynamic IT landscape effectively.
+</p>
 
+<p align="center">
 Prior to joining Micronisus Systems, I contributed significantly to the Network Operations Center at Kaizen365 Technology, Amman, Jordan. Here, my focus was on network efficiency, data integrity, and security across over 40 companies. My ability to troubleshoot, implement backup and recovery protocols, manage storage solutions, and configure network defenses underscored my commitment to maintaining seamless operations and safeguarding data against emerging cyber threats.
+</p>
 
+<p align="center">
 Throughout my career, I've been driven by a passion for technology and a commitment to excellence. My journey from OFFTEC International to Micronisus Systems reflects a continuous learning curve and an unwavering dedication to enhancing IT infrastructure. Through collaboration, innovation, and strategic thinking, I aim to contribute to the ongoing success and resilience of the organizations I serve, ensuring they remain at the forefront of their respective industries.
+</p>
+
 
 <h2 align="center"> Experience </h2>
 
