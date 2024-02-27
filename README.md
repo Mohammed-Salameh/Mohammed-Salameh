@@ -2,9 +2,9 @@
 
 <h1 align="center"> Introduction </h1>
 
-<blockquote style="border-left: 3px solid #ccc; padding-left: 20px; font-style: italic; color: #666;">
-  "With a career deeply rooted in IT infrastructure engineering, my professional journey has been characterized by a relentless pursuit of excellence and innovation. Starting as a Technical Support Engineer at OFFTEC International, I quickly honed my skills in troubleshooting, customer support, and the deployment of complex IT solutions. My dedication to enhancing technical operations and ensuring optimal system performance has been a constant throughout my roles, culminating in my current position as an IT Infrastructure Engineer at Micronisus Systems in Dubai, UAE."
-</blockquote>
+<aside style="padding: 15px; margin: 10px 0; border-left: 4px solid #2196F3; background-color: #DDDDDD;">
+ "With a career deeply rooted in IT infrastructure engineering, my professional journey has been characterized by a relentless pursuit of excellence and innovation. Starting as a Technical Support Engineer at OFFTEC International, I quickly honed my skills in troubleshooting, customer support, and the deployment of complex IT solutions. My dedication to enhancing technical operations and ensuring optimal system performance has been a constant throughout my roles, culminating in my current position as an IT Infrastructure Engineer at Micronisus Systems in Dubai, UAE."
+</aside>
 
 
 <h2 align="center"> Experience </h2>
