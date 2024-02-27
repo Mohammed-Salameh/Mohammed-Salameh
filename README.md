@@ -15,7 +15,6 @@ Throughout my career, I've been driven by a passion for technology and a commitm
 
 <h2 align="center"> Experience </h2>
 
-#
 <p align="center">
     <img width="200" src="https://media.licdn.com/dms/image/C4D0BAQGZEBC_2diJQg/company-logo_200_200/0/1630542340120/micronisus_systems_logo?e=1717027200&v=beta&t=kaaFnEd9Q909WAo3i8UgF1172pp0CH-O7nUXM7kW8iM" alt="Material Bread logo">
 </p>
