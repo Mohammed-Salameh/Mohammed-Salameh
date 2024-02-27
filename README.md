@@ -2,6 +2,8 @@
     <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/000978ae-de90-40e8-81f0-b289ebd34d4a" alt="Material Bread logo">
 </p>
 
+
+
 <h1 align="center"> Introduction </h1>
 
 With a career deeply rooted in IT infrastructure engineering, my professional journey has been characterized by a relentless pursuit of excellence and innovation. Starting as a Technical Support Engineer at OFFTEC International, I quickly honed my skills in troubleshooting, customer support, and the deployment of complex IT solutions. My dedication to enhancing technical operations and ensuring optimal system performance has been a constant throughout my roles, culminating in my current position as an IT Infrastructure Engineer at Micronisus Systems in Dubai, UAE.
