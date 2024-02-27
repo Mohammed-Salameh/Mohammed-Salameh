@@ -137,8 +137,6 @@ Here are some key highlights of my responsibilities and accomplishments:
 
 Throughout my tenure, I have consistently delivered exceptional technical support and contributed to the success of project implementations. I take pride in my ability to effectively collaborate with cross-functional teams and provide valuable insights and assistance.
 
-Additionally, provided comprehensive training and implementation support to ensure smooth operations. Throughout my tenure, I have consistently delivered exceptional technical support and contributed to the success of project implementations. I take pride in my ability to effectively collaborate with cross-functional teams and provide valuable insights and assistance.
-
 ## Certifications & Courses
 
 ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4D2DAQHz1DyzaGWjvg/profile-treasury-image-shrink_800_800/0/1636659476066?e=1709564400&v=beta&t=g4q5UqvnQ0LtZzZ57H8u7seyvwS4n0pq-rj9z2XZCoE "Kaizen365Technlogy Logo")
