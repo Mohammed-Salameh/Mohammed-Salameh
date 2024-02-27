@@ -1,4 +1,4 @@
-![My Logo](https://media.licdn.com/dms/image/D4D16AQEHbapMIh_UNQ/profile-displaybackgroundimage-shrink_350_1400/0/1686837589965?e=1714608000&v=beta&t=TCsd5VzStil_Z-EvC_8dPCFbchfUde5lHwpbE8DRciE "My Logo")
+![My Logo](https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L2Rlc2lnbndpdGhtZTA5X2RpdmlkZXJfdmludGFnZV9zd2lybHNfdmVjdG9yX3ZpbnRhZ2VfbGluZWlzb2xhdF83NjliOGFmNy0zOTJlLTQ1YjYtOGFmNi1lNmY3ZGQ5YjQ1NGEucG5n.png "My Logo")
 
 <h1 align="center"> Introduction </h1>
 
