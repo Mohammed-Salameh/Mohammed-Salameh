@@ -19,7 +19,7 @@ Throughout my career, I've been driven by a passion for technology and a commitm
 </p>
 
 
-### IT Infrastructure Engineer - Micronisus Systems - Dubai, UAE - NOV/2022-Present
+<h3 align="center"> IT Infrastructure Engineer - Micronisus Systems - Dubai, UAE - NOV/2022-Present </h3>
 
 As an IT Infrastructure Engineer at Micronisus Systems, I play a pivotal role in developing, deploying, and managing complex IT infrastructure solutions. My expertise spans a broad spectrum of technologies and platforms, enabling me to make significant contributions to the organization's IT capabilities and service delivery.
 
@@ -53,7 +53,7 @@ My ongoing contributions to Micronisus Systems are not only technical but also s
 </p>
 
 
-### Networks Engineer - Kaizen365 Technology - Amman,Jordan - NOV-2020-Oct-2022 
+<h3 align="center"> Networks Engineer - Kaizen365 Technology - Amman,Jordan - NOV-2020-Oct-2022 </h3>
 
 As a Networks Engineer at Kaizen365 Technology within the Network Operations Center (NOC), I monitored and resolved technical challenges for infrastructures across over 40 companies, ensuring swift and efficient problem-solving to maintain seamless operations.
 
@@ -90,7 +90,7 @@ Additionally, I was instrumental in mentoring team members on new technologies a
 </p>
 
 
-### Technical Support Engineer IT Infrastructure - OFFTEC Internatinal - AUG-2018-NOV-2020
+<h3 align="center"> Technical Support Engineer IT Infrastructure - OFFTEC Internatinal - AUG-2018-NOV-2020 </h3>
 
 In my role as a Technical Support Engineer at OFFTEC within the IT Infrastructures department, I have successfully collaborated with customers, sales teams, product managers, and fellow team members to implement projects and troubleshoot technical issues.
 
