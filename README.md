@@ -86,6 +86,17 @@ Additionally, I was instrumental in mentoring team members on new technologies a
 ##
 
 <p align="center">
+￼
+BreadcrumbsMohammed-Salameh
+/
+￼
+in
+main
+Cancel changes
+￼
+Commit changes...
+￼
+
     <img width="200" src="https://media.licdn.com/dms/image/C4E0BAQEYzHMjFxxB1w/company-logo_200_200/0/1656936675895/offtec_logo?e=1717027200&v=beta&t=uT2U3RVikY4Pc2sKpvT2LKsQG_TNx-lpiJOEgklDhoA" alt="Material Bread logo">
 </p>
 
@@ -137,19 +148,19 @@ Throughout my tenure, I have consistently delivered exceptional technical suppor
 <h3 align="center"> Sophos </h3>
 
 <p align="center">
-    <img width="1080" src="https://media.licdn.com/dms/image/C4D2DAQHz1DyzaGWjvg/profile-treasury-image-shrink_800_800/0/1636659476066?e=1709564400&v=beta&t=g4q5UqvnQ0LtZzZ57H8u7seyvwS4n0pq-rj9z2XZCoE" alt="Material Bread logo">
+    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQHz1DyzaGWjvg/profile-treasury-image-shrink_800_800/0/1636659476066?e=1709564400&v=beta&t=g4q5UqvnQ0LtZzZ57H8u7seyvwS4n0pq-rj9z2XZCoE" alt="Material Bread logo">
 </p>
 
 <p align="center">
-    <img width="1080" src="https://media.licdn.com/dms/image/C4D2DAQHSau7XpQbKqQ/profile-treasury-image-shrink_800_800/0/1636659711832?e=1709564400&v=beta&t=d3Ht9qOYmHGPanfWLQF_o6DuwU5NiXxMx45NLjhOqFc" alt="Material Bread logo">
+    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQHSau7XpQbKqQ/profile-treasury-image-shrink_800_800/0/1636659711832?e=1709564400&v=beta&t=d3Ht9qOYmHGPanfWLQF_o6DuwU5NiXxMx45NLjhOqFc" alt="Material Bread logo">
 </p>
 
 <p align="center">
-    <img width="1080" src="https://media.licdn.com/dms/image/C4D2DAQGuJE9J2Q9zGA/profile-treasury-image-shrink_800_800/0/1636659503723?e=1709564400&v=beta&t=9U9GTlKpKECUMN7bBtg3V5yp_qidsHQw_vWsBzvXDuw" alt="Material Bread logo">
+    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQGuJE9J2Q9zGA/profile-treasury-image-shrink_800_800/0/1636659503723?e=1709564400&v=beta&t=9U9GTlKpKECUMN7bBtg3V5yp_qidsHQw_vWsBzvXDuw" alt="Material Bread logo">
 </p>
 
 <p align="center">
-    <img width="1080" src="https://media.licdn.com/dms/image/C4D2DAQGgv9PFjTZ6_g/profile-treasury-image-shrink_800_800/0/1636659554688?e=1709564400&v=beta&t=OqqFF-KM0ZSwYoh-F4jR-iXp2QTmC5AaF40ZmiT00Q4" alt="Material Bread logo">
+    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQGgv9PFjTZ6_g/profile-treasury-image-shrink_800_800/0/1636659554688?e=1709564400&v=beta&t=OqqFF-KM0ZSwYoh-F4jR-iXp2QTmC5AaF40ZmiT00Q4" alt="Material Bread logo">
 </p>
 
 
