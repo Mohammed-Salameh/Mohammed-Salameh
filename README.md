@@ -2,7 +2,6 @@
     <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/000978ae-de90-40e8-81f0-b289ebd34d4a" alt="Material Bread logo">
 </p>
 
-
 <h1 align="center"> Introduction </h1>
 
 With a career deeply rooted in IT infrastructure engineering, my professional journey has been characterized by a relentless pursuit of excellence and innovation. Starting as a Technical Support Engineer at OFFTEC International, I quickly honed my skills in troubleshooting, customer support, and the deployment of complex IT solutions. My dedication to enhancing technical operations and ensuring optimal system performance has been a constant throughout my roles, culminating in my current position as an IT Infrastructure Engineer at Micronisus Systems in Dubai, UAE.
@@ -51,6 +50,11 @@ Throughout my career, I've been driven by a passion for technology and a commitm
 
 > My ongoing contributions to Micronisus Systems are not only technical but also strategic, ensuring that the IT infrastructure aligns with the organization's goals and adapts to the dynamic IT landscape. Through collaboration and continuous learning, I help to foster an environment of innovation and operational excellence.
 
+<p align="center">
+    <img width="700" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/19c1889a-31db-4751-b913-b1f7fcdedb3d" alt="Material Bread logo">
+</p>
+
+
 ##
 
 
@@ -89,6 +93,11 @@ Throughout my career, I've been driven by a passion for technology and a commitm
 - Delivered top-tier helpdesk services, swiftly addressing and resolving user issues to enhance satisfaction and minimize downtime.
 
 > Additionally, I was instrumental in mentoring team members on new technologies and products, fostering a collaborative and knowledge-rich environment, and ensuring the team remained at the forefront of industry best practices and innovations.
+
+<p align="center">
+    <img width="700" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/19c1889a-31db-4751-b913-b1f7fcdedb3d" alt="Material Bread logo">
+</p>
+
 
 ##
 
@@ -139,6 +148,12 @@ Here are some key highlights of my responsibilities and accomplishments:
 - Customize Digital Signage and Datacard CD800 Plastic Card printer solutions, including conducting POCs and offering comprehensive training, to meet diverse client needs and ensure operational effectiveness.
 
 > Throughout my tenure, I have consistently delivered exceptional technical support and contributed to the success of project implementations. I take pride in my ability to effectively collaborate with cross-functional teams and provide valuable insights and assistance.
+
+<p align="center">
+    <img width="700" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/19c1889a-31db-4751-b913-b1f7fcdedb3d" alt="Material Bread logo">
+</p>
+
+
 
 <h2 align="center"> Certifications & Courses </h2>
 
