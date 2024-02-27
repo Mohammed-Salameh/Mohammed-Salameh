@@ -23,25 +23,25 @@
 
 As an IT Infrastructure Engineer at Micronisus Systems, I play a pivotal role in developing, deploying, and managing complex IT infrastructure solutions. My expertise spans a broad spectrum of technologies and platforms, enabling me to make significant contributions to the organization's IT capabilities and service delivery.
 
-• Specialize in a wide array of virtualization technologies including Redhat, Ovirt, Oracle, XenServer, Hyper-V, and VMware, driving efficiency and scalability in IT operations.
+- Specialize in a wide array of virtualization technologies including Redhat, Ovirt, Oracle, XenServer, Hyper-V, and VMware, driving efficiency and scalability in IT operations.
 
-• Manage Microsoft infrastructure components such as Azure AD Connect, ADDS, ADCS, MS 365, GPOs, WSUS, DNS, and Exchange, enhancing system reliability and user productivity. Utilize PowerShell for automation and scripting, streamlining administrative tasks.
+- Manage Microsoft infrastructure components such as Azure AD Connect, ADDS, ADCS, MS 365, GPOs, WSUS, DNS, and Exchange, enhancing system reliability and user productivity. Utilize PowerShell for automation and scripting, streamlining administrative tasks.
 
-• Administer Linux environments, utilizing open-source tools and best practices for Linux administration to ensure robust and secure systems.
+- Administer Linux environments, utilizing open-source tools and best practices for Linux administration to ensure robust and secure systems.
 
-• Orchestrate AWS Services, including EC2, S3, VPC, and IAM, to optimize cloud infrastructure performance and security.
+- Orchestrate AWS Services, including EC2, S3, VPC, and IAM, to optimize cloud infrastructure performance and security.
 
-• Configure and maintain firewalls (Vyos, Sophos, Fortinet), routers/switches (Microtik, Cisco, TPLink, Vyos), and access points (Unifi, Cisco, Aruba), ensuring high network availability and security.
+- Configure and maintain firewalls (Vyos, Sophos, Fortinet), routers/switches (Microtik, Cisco, TPLink, Vyos), and access points (Unifi, Cisco, Aruba), ensuring high network availability and security.
 
-• Oversee server hardware operations for Dell PowerEdge, Lenovo ThinkSystems, HP Proliant, IBM X Series, guaranteeing high performance and reliability.
+- Oversee server hardware operations for Dell PowerEdge, Lenovo ThinkSystems, HP Proliant, IBM X Series, guaranteeing high performance and reliability.
 
-• Implement comprehensive monitoring solutions with Prometheus, Grafana, Loki, and Graphite, providing deep insights into IT infrastructure health and performance.
+- Implement comprehensive monitoring solutions with Prometheus, Grafana, Loki, and Graphite, providing deep insights into IT infrastructure health and performance.
 
-• Drive IT automation and orchestration using Ansible, GitHub, Docker, and Kubernetes, significantly improving operational efficiency and deployment speed.
+- Drive IT automation and orchestration using Ansible, GitHub, Docker, and Kubernetes, significantly improving operational efficiency and deployment speed.
 
-• Manage backup and recovery processes with Restic, OneDrive, Google Drive, ensuring data integrity and availability.
+- Manage backup and recovery processes with Restic, OneDrive, Google Drive, ensuring data integrity and availability.
 
-• Deploy and manage VOIP systems (CUCM, Asterisk FreePBX), enhancing communication capabilities and reliability.
+- Deploy and manage VOIP systems (CUCM, Asterisk FreePBX), enhancing communication capabilities and reliability.
 
 My ongoing contributions to Micronisus Systems are not only technical but also strategic, ensuring that the IT infrastructure aligns with the organization's goals and adapts to the dynamic IT landscape. Through collaboration and continuous learning, I help to foster an environment of innovation and operational excellence.
 
