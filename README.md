@@ -2,8 +2,6 @@
 
 <h1 align="center"> Introduction </h1>
 
-```bash
-
 With a career deeply rooted in IT infrastructure engineering, my professional journey has been characterized by a relentless pursuit of excellence and innovation. Starting as a Technical Support Engineer at OFFTEC International, I quickly honed my skills in troubleshooting, customer support, and the deployment of complex IT solutions. My dedication to enhancing technical operations and ensuring optimal system performance has been a constant throughout my roles, culminating in my current position as an IT Infrastructure Engineer at Micronisus Systems in Dubai, UAE.
 
 At Micronisus Systems, my role is multifaceted, encompassing the development, deployment, and management of sophisticated IT infrastructure solutions across a diverse technological landscape. I specialize in a wide range of virtualization technologies, including Redhat, Ovirt, Oracle, XenServer, Hyper-V, and VMware, which are pivotal for driving operational efficiency and scalability. My expertise also extends to managing critical Microsoft infrastructure components, Linux environments, AWS Services, and implementing comprehensive network security measures. 
@@ -13,9 +11,9 @@ In addition to my technical prowess, I place a strong emphasis on automation, mo
 Prior to joining Micronisus Systems, I contributed significantly to the Network Operations Center at Kaizen365 Technology, Amman, Jordan. Here, my focus was on network efficiency, data integrity, and security across over 40 companies. My ability to troubleshoot, implement backup and recovery protocols, manage storage solutions, and configure network defenses underscored my commitment to maintaining seamless operations and safeguarding data against emerging cyber threats.
 
 Throughout my career, I've been driven by a passion for technology and a commitment to excellence. My journey from OFFTEC International to Micronisus Systems reflects a continuous learning curve and an unwavering dedication to enhancing IT infrastructure. Through collaboration, innovation, and strategic thinking, I aim to contribute to the ongoing success and resilience of the organizations I serve, ensuring they remain at the forefront of their respective industries.
-```
 
 <h2 align="center"> Experience </h2>
+
 
 <p align="center">
     <img width="200" src="https://media.licdn.com/dms/image/C4D0BAQGZEBC_2diJQg/company-logo_200_200/0/1630542340120/micronisus_systems_logo?e=1717027200&v=beta&t=kaaFnEd9Q909WAo3i8UgF1172pp0CH-O7nUXM7kW8iM" alt="Material Bread logo">
@@ -23,6 +21,7 @@ Throughout my career, I've been driven by a passion for technology and a commitm
 
 
 <h3 align="center"> IT Infrastructure Engineer - Micronisus Systems - Dubai, UAE - NOV/2022-Present </h3>
+
 
 > As an IT Infrastructure Engineer at Micronisus Systems, I play a pivotal role in developing, deploying, and managing complex IT infrastructure solutions. My expertise spans a broad spectrum of technologies and platforms, enabling me to make significant contributions to the organization's IT capabilities and service delivery.
 
@@ -57,6 +56,7 @@ Throughout my career, I've been driven by a passion for technology and a commitm
 
 
 <h3 align="center"> Networks Engineer - Kaizen365 Technology - Amman,Jordan - NOV-2020-Oct-2022 </h3>
+
 
 > As a Networks Engineer at Kaizen365 Technology within the Network Operations Center (NOC), I monitored and resolved technical challenges for infrastructures across over 40 companies, ensuring swift and efficient problem-solving to maintain seamless operations.
 
@@ -94,6 +94,7 @@ Throughout my career, I've been driven by a passion for technology and a commitm
 
 
 <h3 align="center"> Technical Support Engineer IT Infrastructure - OFFTEC Internatinal - AUG-2018-NOV-2020 </h3>
+
 
 > In my role as a Technical Support Engineer at OFFTEC within the IT Infrastructures department, I have successfully collaborated with customers, sales teams, product managers, and fellow team members to implement projects and troubleshoot technical issues.
 
