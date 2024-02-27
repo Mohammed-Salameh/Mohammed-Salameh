@@ -11,9 +11,11 @@ In addition to my technical prowess, I place a strong emphasis on automation, mo
 Prior to joining Micronisus Systems, I contributed significantly to the Network Operations Center at Kaizen365 Technology, Amman, Jordan. Here, my focus was on network efficiency, data integrity, and security across over 40 companies. My ability to troubleshoot, implement backup and recovery protocols, manage storage solutions, and configure network defenses underscored my commitment to maintaining seamless operations and safeguarding data against emerging cyber threats.
 
 Throughout my career, I've been driven by a passion for technology and a commitment to excellence. My journey from OFFTEC International to Micronisus Systems reflects a continuous learning curve and an unwavering dedication to enhancing IT infrastructure. Through collaboration, innovation, and strategic thinking, I aim to contribute to the ongoing success and resilience of the organizations I serve, ensuring they remain at the forefront of their respective industries.
+#
 
 <h2 align="center"> Experience </h2>
 
+#
 <p align="center">
     <img width="200" src="https://media.licdn.com/dms/image/C4D0BAQGZEBC_2diJQg/company-logo_200_200/0/1630542340120/micronisus_systems_logo?e=1717027200&v=beta&t=kaaFnEd9Q909WAo3i8UgF1172pp0CH-O7nUXM7kW8iM" alt="Material Bread logo">
 </p>
