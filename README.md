@@ -3,7 +3,6 @@
 <center>
   
 # Introduction
-
 </center>
 
 With a career deeply rooted in IT infrastructure engineering, my professional journey has been characterized by a relentless pursuit of excellence and innovation. Starting as a Technical Support Engineer at OFFTEC International, I quickly honed my skills in troubleshooting, customer support, and the deployment of complex IT solutions. My dedication to enhancing technical operations and ensuring optimal system performance has been a constant throughout my roles, culminating in my current position as an IT Infrastructure Engineer at Micronisus Systems in Dubai, UAE.
@@ -18,11 +17,7 @@ Throughout my career, I've been driven by a passion for technology and a commitm
 
 ## Experience
 
-<center>
-
 ![Kaizen365Technlogy Logo](https://media.licdn.com/dms/image/C4D0BAQGZEBC_2diJQg/company-logo_200_200/0/1630542340120/micronisus_systems_logo?e=1717027200&v=beta&t=kaaFnEd9Q909WAo3i8UgF1172pp0CH-O7nUXM7kW8iM "Kaizen365Technlogy Logo")
-
-</center>
 
 ### IT Infrastructure Engineer - Micronisus Systems - Dubai, UAE - NOV/2022-Present
 
