@@ -1,5 +1,6 @@
-
-![kisspng-tattoo-artist-leaf-tribal-5abd8afcb433e1 9812007615223713247381](https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/000978ae-de90-40e8-81f0-b289ebd34d4a)
+<p align="center">
+    <img width="200" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/000978ae-de90-40e8-81f0-b289ebd34d4a" alt="Material Bread logo">
+</p>
 
 
 <h1 align="center"> Introduction </h1>
