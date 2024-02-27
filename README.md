@@ -12,7 +12,7 @@ Prior to joining Micronisus Systems, I contributed significantly to the Network 
 
 Throughout my career, I've been driven by a passion for technology and a commitment to excellence. My journey from OFFTEC International to Micronisus Systems reflects a continuous learning curve and an unwavering dedication to enhancing IT infrastructure. Through collaboration, innovation, and strategic thinking, I aim to contribute to the ongoing success and resilience of the organizations I serve, ensuring they remain at the forefront of their respective industries.
 
-## Experience
+<h2 align="center"> Experience </h2>
 
 <p align="center">
     <img width="200" src="https://media.licdn.com/dms/image/C4D0BAQGZEBC_2diJQg/company-logo_200_200/0/1630542340120/micronisus_systems_logo?e=1717027200&v=beta&t=kaaFnEd9Q909WAo3i8UgF1172pp0CH-O7nUXM7kW8iM" alt="Material Bread logo">
