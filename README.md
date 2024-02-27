@@ -101,19 +101,39 @@ In my role as a Technical Support Engineer at OFFTEC within the IT Infrastructur
 
 Here are some key highlights of my responsibilities and accomplishments:
 
-• Promptly responded to support requests from IT professionals, efficiently addressing software and hardware issues to ensure uninterrupted operations.
-
-• Effectively communicated complex technical information to non-technical individuals in a clear and understandable manner, promoting better comprehension and collaboration.
-
-• Played a pivotal role in training team members on various products, providing valuable support and insights to enhance their knowledge and skills.
-
-• Installed and implemented Dell PowerEdge servers for various Government Entities and Private Companies, ensuring seamless integration and optimal performance.
-
-• Demonstrated expertise in implementing, migrating, and troubleshooting Windows server roles such as Active Directory Domain Services (ADDS), DNS, DHCP, and WSUS, contributing to efficient and secure network operations.
-
-• Successfully installed, configured, and troubleshooted Digital Signage solutions, conducting Proof of Concepts (POCs) to meet customer requirements and ensure satisfaction.
-
-• Installed, configured, and troubleshooted Datacard CD800 Plastic Card printers for diverse customers, including Government entities and Private companies. Additionally, provided comprehensive training and implementation support to ensure smooth operations.
+• Conduct thorough research to identify and resolve software and hardware issues, ensuring optimal system performance.
+  
+• Provide exceptional end-user support, guiding clients through troubleshooting procedures with patience and clarity.
+  
+• Proactively follow up with clients post-troubleshooting to confirm their IT systems are operating smoothly, enhancing customer satisfaction.
+  
+• Foster positive relationships with clients, maintaining a friendly yet professional demeanor to build trust and loyalty.
+  
+• Collaborate effectively with internal teams, including support, sales, engineering, and product management, to drive seamless operations and cross-functional success.
+  
+• Demonstrate dedication to task completion, working diligently until resolution or efficiently delegating to third parties when necessary.
+  
+• Expertise in configuring and managing a diverse range of technology solutions, including CCTV systems (e.g., Wisenet, Dahua, Milesight), access control (Virdi), and operating systems (Linux, Windows).
+  
+• Skillfully set up and configure hardware, software, and devices to establish functional workstations across various organizations.
+  
+• Simplify complex technical concepts for non-technical audiences, ensuring clear understanding and effective communication.
+  
+• Execute on-premises server installations for Digital Signage software (e.g., Innova, Navori), enhancing digital communication strategies.
+  
+• Implement and configure critical IT infrastructure components, including Avtech Room Alert systems, Datacard CD800, Avision Scanners, and APC Smart UPS, ensuring reliable and efficient operations.
+  
+• Successfully deploy and manage specialized systems such as Absen LED Displays and Tramigo Tracking software, catering to specific organizational needs.
+  
+• Respond swiftly to IT support inquiries, effectively resolving issues to minimize downtime and support continuous operations.
+   
+• Lead and mentor team members on product knowledge and troubleshooting techniques, elevating team capabilities and service quality.
+  
+• Implement Dell PowerEdge servers for government and private sectors, ensuring high-performance solutions and integration excellence.
+  
+• Master the implementation, migration, and troubleshooting of critical Windows server roles, including ADDS, DNS, DHCP, and WSUS, to support secure and efficient network management.
+  
+• Customize Digital Signage and Datacard CD800 Plastic Card printer solutions, including conducting POCs and offering comprehensive training, to meet diverse client needs and ensure operational effectiveness.
 
 Throughout my tenure, I have consistently delivered exceptional technical support and contributed to the success of project implementations. I take pride in my ability to effectively collaborate with cross-functional teams and provide valuable insights and assistance.
 
