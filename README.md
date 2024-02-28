@@ -155,7 +155,7 @@ Here are some key highlights of my responsibilities and accomplishments:
 <h2 align="center"> Certifications & Courses </h2>
 
 <p align="center">
-    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQHz1DyzaGWjvg/profile-treasury-image-shrink_800_800/0/1636659476066?e=1709564400&v=beta&t=g4q5UqvnQ0LtZzZ57H8u7seyvwS4n0pq-rj9z2XZCoE" alt="Material Bread logo">
+    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQHz1DyzaGWjvg/profile-treasury-image-shrink_800_800/0/1636659476066?e=1709564400&v=beta&t=g4q5UqvnQ0LtZzZ57H8u7seyvwS4n0pq-rj9z2XZCoE" alt="Sophos">
 </p>
 
 <p align="center">
