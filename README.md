@@ -195,6 +195,18 @@ Here are some key highlights of my responsibilities and accomplishments:
 </p>
 
 <p align="center">
+    <img width="720" src="https://media.licdn.com/dms/document/media/C4D2DAQHZ8hdfZgDObQ/profile-treasury-document-pdf-analyzed/0/1638771813127?e=1709769600&v=beta&t=shwNHYjSNVU2KY7-5-_1lcw04bmBZLb-FQOTruFIBuw" alt="Material Bread logo">
+</p>
+
+<p align="center">
+    <img width="720" src="https://media.licdn.com/dms/document/media/C4D2DAQGTyhnwrqOlGg/profile-treasury-document-pdf-analyzed/0/1638722248434?e=1709769600&v=beta&t=HwBZ21lPux1DTRGWMMr6hK8vkzhX6H_YYhQoJtzfxu0" alt="Material Bread logo">
+</p>
+
+<p align="center">
+    <img width="720" src="https://media.licdn.com/dms/document/media/C4D2DAQGepml_iJmWpQ/profile-treasury-document-pdf-analyzed/0/1638296653683?e=1709769600&v=beta&t=GaTT77gYJz21DOCjSZH7YH1kTGn8ugv3rgkP3k0e49Q" alt="Material Bread logo">
+</p>
+
+<p align="center">
     <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/f5f82d3f-cc73-40b7-b4b3-6fbd1f6c8d86" alt="Material Bread logo">
 </p>
 
