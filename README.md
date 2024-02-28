@@ -219,19 +219,19 @@ Here are some key highlights of my responsibilities and accomplishments:
 </p>
 
 <p align="center">
-    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQFsAe-3rSRjew/profile-treasury-image-shrink_800_800/0/1636659675379?e=1709726400&v=beta&t=hv4NM-fZKW1tRa0H3Sa6VkQLnu33LbXN4uBUMJRsMRY" alt="Material Bread logo">
+    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQFsAe-3rSRjew/profile-treasury-image-shrink_800_800/0/1636659675379?e=1709726400&v=beta&t=hv4NM-fZKW1tRa0H3Sa6VkQLnu33LbXN4uBUMJRsMRY" alt="Cybrary">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/56bd0b0b-4650-433e-802f-7232a97aa702" alt="Material Bread logo">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/56bd0b0b-4650-433e-802f-7232a97aa702" alt="Cybrary">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/aacb2088-ea88-4075-97cb-644407dd3cea" alt="Material Bread logo">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/aacb2088-ea88-4075-97cb-644407dd3cea" alt="Udemy">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/2a8efb27-9612-4346-99aa-2a5b2be9ca4b" alt="Material Bread logo">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/2a8efb27-9612-4346-99aa-2a5b2be9ca4b" alt="AWS">
 </p>
 
 <p align="center">
