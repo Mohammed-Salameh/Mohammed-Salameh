@@ -231,5 +231,9 @@ Here are some key highlights of my responsibilities and accomplishments:
 </p>
 
 <p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/2a8efb27-9612-4346-99aa-2a5b2be9ca4b" alt="Material Bread logo">
+</p>
+
+<p align="center">
     <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/f5f82d3f-cc73-40b7-b4b3-6fbd1f6c8d86" alt="Material Bread logo">
 </p>
