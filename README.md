@@ -154,8 +154,6 @@ Here are some key highlights of my responsibilities and accomplishments:
 
 <h2 align="center"> Certifications & Courses </h2>
 
-<h3 align="center"> Sophos </h3>
-
 <p align="center">
     <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQHz1DyzaGWjvg/profile-treasury-image-shrink_800_800/0/1636659476066?e=1709564400&v=beta&t=g4q5UqvnQ0LtZzZ57H8u7seyvwS4n0pq-rj9z2XZCoE" alt="Material Bread logo">
 </p>
@@ -170,6 +168,10 @@ Here are some key highlights of my responsibilities and accomplishments:
 
 <p align="center">
     <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQGgv9PFjTZ6_g/profile-treasury-image-shrink_800_800/0/1636659554688?e=1709564400&v=beta&t=OqqFF-KM0ZSwYoh-F4jR-iXp2QTmC5AaF40ZmiT00Q4" alt="Material Bread logo">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/1a7b1bc8-21ab-4568-9e58-8f60fe3a946b" alt="Material Bread logo">
 </p>
 
 <p align="center">
