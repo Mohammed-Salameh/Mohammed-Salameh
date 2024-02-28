@@ -195,15 +195,15 @@ Here are some key highlights of my responsibilities and accomplishments:
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/05cac98a-e97e-41a5-a4e9-e318170b1a90" alt="Material Bread logo">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/05cac98a-e97e-41a5-a4e9-e318170b1a90" alt="Axcient">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/76b2362e-0179-4816-90e5-b69c601be05e" alt="Material Bread logo">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/76b2362e-0179-4816-90e5-b69c601be05e" alt="Axcient">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/701dd9ef-9ab8-4ee1-a3af-9e9ddf784a4d" alt="Material Bread logo">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/701dd9ef-9ab8-4ee1-a3af-9e9ddf784a4d" alt="Axcient">
 </p>
 
 <p align="center">
