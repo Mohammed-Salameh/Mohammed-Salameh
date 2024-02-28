@@ -171,11 +171,11 @@ Here are some key highlights of my responsibilities and accomplishments:
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/1a7b1bc8-21ab-4568-9e58-8f60fe3a946b" alt="Material Bread logo">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/1a7b1bc8-21ab-4568-9e58-8f60fe3a946b" alt="Altaro">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/3d782477-0efb-4272-ad0b-bbb1f305878f" alt="Material Bread logo">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/3d782477-0efb-4272-ad0b-bbb1f305878f" alt="Altaro">
 </p>
 
 <p align="center">
