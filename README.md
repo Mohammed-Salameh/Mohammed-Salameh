@@ -155,31 +155,31 @@ Here are some key highlights of my responsibilities and accomplishments:
 <h2 align="center"> Certifications & Courses </h2>
 
 <p align="center">
-    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQHz1DyzaGWjvg/profile-treasury-image-shrink_800_800/0/1636659476066?e=1709564400&v=beta&t=g4q5UqvnQ0LtZzZ57H8u7seyvwS4n0pq-rj9z2XZCoE" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/73d7a058-c742-4e02-a367-1d718b955b28" alt="Sophos">
 </p>
 
 <p align="center">
-    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQHSau7XpQbKqQ/profile-treasury-image-shrink_800_800/0/1636659711832?e=1709564400&v=beta&t=d3Ht9qOYmHGPanfWLQF_o6DuwU5NiXxMx45NLjhOqFc" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/45a8898f-4e5d-4399-8dcb-a261bba15810" alt="Sophos">
 </p>
 
 <p align="center">
-    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQGuJE9J2Q9zGA/profile-treasury-image-shrink_800_800/0/1636659503723?e=1709564400&v=beta&t=9U9GTlKpKECUMN7bBtg3V5yp_qidsHQw_vWsBzvXDuw" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/e85ea8b7-fe0c-45c4-8537-74ef8ff0d909" alt="Sophos">
 </p>
 
 <p align="center">
-    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQGgv9PFjTZ6_g/profile-treasury-image-shrink_800_800/0/1636659554688?e=1709564400&v=beta&t=OqqFF-KM0ZSwYoh-F4jR-iXp2QTmC5AaF40ZmiT00Q4" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/49288f51-dcb0-4f9b-af3c-7bf0c7f39531" alt="Sophos">
 </p>
 
 <p align="center">
-    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQE_itQA0XpkWw/profile-treasury-image-shrink_800_800/0/1636659705042?e=1709726400&v=beta&t=bzH3Ml0CVVSBHQOt5yOgEyJICWu9DhRutOhI9xDHOZg" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/46d2a900-7cf9-47df-ae20-78aa3af0b584" alt="Sophos">
 </p>
 
 <p align="center">
-    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQELwyT61AFcsw/profile-treasury-image-shrink_800_800/0/1636659696203?e=1709726400&v=beta&t=BpOY8sHZRxs-gp455aZ0fvV6zyibPp_iy5jyPXwd6bs" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/d601f266-503f-4477-ac23-9fc92921115e" alt="Sophos">
 </p>
 
 <p align="center">
-    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQH69UGwqs323Q/profile-treasury-image-shrink_800_800/0/1636659686729?e=1709726400&v=beta&t=Nkty4IrL16wOX64cTAXizjLl4kGrCs9Lf5ftiIGwvLY" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/0f4e36e4-a7a0-465d-ba35-4ff42609a4a0" alt="Sophos">
 </p>
 
 <p align="center">
