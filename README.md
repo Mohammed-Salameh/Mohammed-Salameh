@@ -183,7 +183,7 @@ Here are some key highlights of my responsibilities and accomplishments:
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/afeb8439-a508-4872-b7ec-c445d2ca5fdd" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/6ec15638-2ff4-4b3c-a59e-2b0eb209679c" alt="Sophos">
 </p>
 
 <p align="center">
@@ -237,4 +237,3 @@ Here are some key highlights of my responsibilities and accomplishments:
 <p align="center">
     <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/f5f82d3f-cc73-40b7-b4b3-6fbd1f6c8d86" alt="Material Bread logo">
 </p>
-
