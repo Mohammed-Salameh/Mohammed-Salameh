@@ -292,7 +292,19 @@ Here are some key highlights of my responsibilities and accomplishments:
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/7528af5c-72da-4d0d-9966-71820e0af82d" alt="Webroot">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/c167c7c3-7e56-4b7e-b0fe-008be00cc07f" alt="Webroot">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/8122b535-1076-4ce7-acb0-240467ffce3e" alt="Webroot">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/b432f434-c492-49d6-b85e-d4d39be1fc1e" alt="Webroot">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/91b3af4c-388d-4bd9-ab41-ff6227970631" alt="Webroot">
 </p>
 
 <p align="center">
