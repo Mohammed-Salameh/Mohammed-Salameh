@@ -1,4 +1,4 @@
-
+<p align="center">
     <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/c4e3a4ef-6185-480a-bc89-7742de02b577" alt="Material Bread logo">
 </p>
 
