@@ -227,12 +227,53 @@ Here are some key highlights of my responsibilities and accomplishments:
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/a1408b62-88ad-4f63-ac10-79f46d7a64d980914350" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/9712da83-f8f9-49f1-82c4-b1d54a4b5dc4" alt="Sophos">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/9712da83-f8f9-49f1-82c4-b1d54a4b5dc4" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/13e0facb-cb93-4399-8aa5-45f1c888b9cf" alt="Sophos">
 </p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/d76b5218-1166-4bfc-9a8c-d8d338b13577" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/1e9b1ccc-ab40-4614-a5c6-241c323d9851" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/44c4a09c-5b1c-4802-919e-75619c1b0d00" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/4d0a0a9d-4b0e-4b4a-b51c-1710739b1480" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/09413228-1b8e-4040-973a-0d5036a3d95e" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/9831ab3b-6f0b-4318-bb5f-8a238640dd38" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/4680f9e6-739f-44a0-94d9-646f7cdb198e" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/7a76cf3b-a746-4bcc-9d34-e0a227207ce3" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/a594fb25-b9c7-4968-a53c-52f369e50531" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/3775e42d-c4c9-45f1-a193-1b829bddf251" alt="Sophos">
+</p>
+
 
 <p align="center">
     <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/1a7b1bc8-21ab-4568-9e58-8f60fe3a946b" alt="Altaro">
