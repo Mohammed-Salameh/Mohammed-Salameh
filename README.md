@@ -219,10 +219,6 @@ Here are some key highlights of my responsibilities and accomplishments:
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/5ee7993d-2ba2-43c2-9dc0-4a86" alt="19- Sophos Central Email">
-</p>
-
-<p align="center">
     <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/9712da83-f8f9-49f1-82c4-b1d54a4b5dc4" alt="20- Phish Threat">
 </p>
 
