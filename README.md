@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/210fdcde-6636-455b-9d71-f7f54a194400)<p align="center">
     <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/c4e3a4ef-6185-480a-bc89-7742de02b577" alt="Material Bread logo">
 </p>
 
@@ -187,6 +187,30 @@ Here are some key highlights of my responsibilities and accomplishments:
 </p>
 
 <p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/74769bf4-c8de-4e04-9611-ed6eca8e8988" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/b50c8192-b397-4e70-a93f-86279bbe160c" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/4b0a8879-2860-4413-aa74-71db4c4cfc0f" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/dce76c65-de52-4a16-a937-f7da568f320e" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/bd62f500-6f7d-45bc-b81a-295aa0a7e92e" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/bd62f500-6f7d-45bc-b81a-295aa0a7e92e" alt="Sophos">
+</p>
+
+<p align="center">
     <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/1a7b1bc8-21ab-4568-9e58-8f60fe3a946b" alt="Altaro">
 </p>
 
@@ -237,3 +261,8 @@ Here are some key highlights of my responsibilities and accomplishments:
 <p align="center">
     <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/f5f82d3f-cc73-40b7-b4b3-6fbd1f6c8d86" alt="Material Bread logo">
 </p>
+
+
+
+
+
