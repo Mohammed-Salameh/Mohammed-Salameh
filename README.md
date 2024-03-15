@@ -155,115 +155,111 @@ Here are some key highlights of my responsibilities and accomplishments:
 <h2 align="center"> Certifications & Courses </h2>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/73d7a058-c742-4e02-a367-1d718b955b28" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/73d7a058-c742-4e02-a367-1d718b955b28" alt="1- "2- Sophos Certifed Sales Consultant">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/45a8898f-4e5d-4399-8dcb-a261bba15810" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/45a8898f-4e5d-4399-8dcb-a261bba15810" alt="3- XG Fast Track">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/e85ea8b7-fe0c-45c4-8537-74ef8ff0d909" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/e85ea8b7-fe0c-45c4-8537-74ef8ff0d909" alt="4- MSP Connect Flex">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/49288f51-dcb0-4f9b-af3c-7bf0c7f39531" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/49288f51-dcb0-4f9b-af3c-7bf0c7f39531" alt="5- Cryptography CyberSecurity">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/46d2a900-7cf9-47df-ae20-78aa3af0b584" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/46d2a900-7cf9-47df-ae20-78aa3af0b584" alt="6- Wireless">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/d601f266-503f-4477-ac23-9fc92921115e" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/d601f266-503f-4477-ac23-9fc92921115e" alt="7- Zero Trust">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/0f4e36e4-a7a0-465d-ba35-4ff42609a4a0" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/0f4e36e4-a7a0-465d-ba35-4ff42609a4a0" alt="8- Networking">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/6ec15638-2ff4-4b3c-a59e-2b0eb209679c" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/6ec15638-2ff4-4b3c-a59e-2b0eb209679c" alt="9- Sophos MSP Connect Sales Consultant">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/74769bf4-c8de-4e04-9611-ed6eca8e8988" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/74769bf4-c8de-4e04-9611-ed6eca8e8988" alt="10- UTM Sales Consutlatn">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/b50c8192-b397-4e70-a93f-86279bbe160c" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/b50c8192-b397-4e70-a93f-86279bbe160c" alt="11- Email Protection">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/4b0a8879-2860-4413-aa74-71db4c4cfc0f" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/4b0a8879-2860-4413-aa74-71db4c4cfc0f" alt="12- Web Protection">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/dce76c65-de52-4a16-a937-f7da568f320e" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/dce76c65-de52-4a16-a937-f7da568f320e" alt="13- Sophos Wireless Sales Consutlant">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/bd62f500-6f7d-45bc-b81a-295aa0a7e92e" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/bd62f500-6f7d-45bc-b81a-295aa0a7e92e" alt="14- Sophos Wireless Sales Consulant">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/bd62f500-6f7d-45bc-b81a-295aa0a7e92e" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/bd62f500-6f7d-45bc-b81a-295aa0a7e92e" alt="15- Phish Threat Sales Consultant">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/a1408b62-88ad-4f63-ac10-79f46d7a64d9" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/a1408b62-88ad-4f63-ac10-79f46d7a64d9" alt="16- Sophos Central Overview Engineer">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/c8ec24cb-5eb3-494a-9b92-57528fcc9577" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/c8ec24cb-5eb3-494a-9b92-57528fcc9577" alt="17- Sales Fundamentals Sales Consultant">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/b8d837fa-147e-4ad9-8304-e4a61aafbe2d" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/b8d837fa-147e-4ad9-8304-e4a61aafbe2d" alt="18- Central Device Encryption">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/5ee7993d-2ba2-43c2-9dc0-4a86" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/5ee7993d-2ba2-43c2-9dc0-4a86" alt="19- Sophos Central Email">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/9712da83-f8f9-49f1-82c4-b1d54a4b5dc4" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/9712da83-f8f9-49f1-82c4-b1d54a4b5dc4" alt="20- Phish Threat">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/13e0facb-cb93-4399-8aa5-45f1c888b9cf" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/13e0facb-cb93-4399-8aa5-45f1c888b9cf" alt="21- Central Wireless">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/d76b5218-1166-4bfc-9a8c-d8d338b13577" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/d76b5218-1166-4bfc-9a8c-d8d338b13577" alt="22- XG Firewall v18">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/1e9b1ccc-ab40-4614-a5c6-241c323d9851" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/1e9b1ccc-ab40-4614-a5c6-241c323d9851" alt="23- Sophos Mobile v9.5">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/44c4a09c-5b1c-4802-919e-75619c1b0d00" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/44c4a09c-5b1c-4802-919e-75619c1b0d00" alt="24- SG UTM to XG Firewall Engineer">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/4d0a0a9d-4b0e-4b4a-b51c-1710739b1480" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/09413228-1b8e-4040-973a-0d5036a3d95e" alt="26- SG UTM to XG Firewall Architect">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/09413228-1b8e-4040-973a-0d5036a3d95e" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/9831ab3b-6f0b-4318-bb5f-8a238640dd38" alt="27- Sophos Cloud Security">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/9831ab3b-6f0b-4318-bb5f-8a238640dd38" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/4680f9e6-739f-44a0-94d9-646f7cdb198e" alt="28- Sophos Central Endpoint and Server">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/4680f9e6-739f-44a0-94d9-646f7cdb198e" alt="Sophos">
-</p>
-
-<p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/7a76cf3b-a746-4bcc-9d34-e0a227207ce3" alt="Sophos">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/7a76cf3b-a746-4bcc-9d34-e0a227207ce3" alt="29- XG Firewall API">
 </p>
 
 <p align="center">
