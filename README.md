@@ -94,6 +94,11 @@ Throughout my career, I've been driven by a passion for technology and a commitm
 
 > Additionally, I was instrumental in mentoring team members on new technologies and products, fostering a collaborative and knowledge-rich environment, and ensuring the team remained at the forefront of industry best practices and innovations.
 
+![Sales Logo](https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/21423dd8-df2f-494c-865e-2c5b3a77defd)
+![Engineer Logo](https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/e2c4b3ce-a214-4f64-8ee3-c3011965c1ff)
+![engineer](https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/d6aaa7ea-12ca-40c9-9c4b-c8139142f9fd)
+![endpoiny](https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/558a08aa-f5b9-43fa-8943-64338806a903)
+
 <p align="center">
     <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/a4db5003-e4cb-4fa5-be40-609f1e31a887" alt="border">
 </p>
