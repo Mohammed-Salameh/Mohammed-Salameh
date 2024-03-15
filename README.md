@@ -211,6 +211,30 @@ Here are some key highlights of my responsibilities and accomplishments:
 </p>
 
 <p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/a1408b62-88ad-4f63-ac10-79f46d7a64d9" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/c8ec24cb-5eb3-494a-9b92-57528fcc9577" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/b8d837fa-147e-4ad9-8304-e4a61aafbe2d" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/5ee7993d-2ba2-43c2-9dc0-4a86" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/a1408b62-88ad-4f63-ac10-79f46d7a64d980914350" alt="Sophos">
+</p>
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/9712da83-f8f9-49f1-82c4-b1d54a4b5dc4" alt="Sophos">
+</p>
+
+<p align="center">
     <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/1a7b1bc8-21ab-4568-9e58-8f60fe3a946b" alt="Altaro">
 </p>
 
@@ -261,7 +285,6 @@ Here are some key highlights of my responsibilities and accomplishments:
 <p align="center">
     <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/f5f82d3f-cc73-40b7-b4b3-6fbd1f6c8d86" alt="Material Bread logo">
 </p>
-
 
 
 
