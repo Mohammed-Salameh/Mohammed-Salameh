@@ -308,11 +308,16 @@ Here are some key highlights of my responsibilities and accomplishments:
 </p>
 
 <p align="center">
-    <img width="720" src="https://media.licdn.com/dms/image/C4D2DAQFsAe-3rSRjew/profile-treasury-image-shrink_800_800/0/1636659675379?e=1709726400&v=beta&t=hv4NM-fZKW1tRa0H3Sa6VkQLnu33LbXN4uBUMJRsMRY" alt="Cybrary">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/f98dffbc-7710-44fc-9bd4-e28cb7b89f08" alt="Cybrary">
+</p>
+
+
+<p align="center">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/2347ad5c-36b7-48a1-b856-6e85bc98abbb" alt="Cybrary">
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/56bd0b0b-4650-433e-802f-7232a97aa702" alt="Cybrary">
+    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/4c3ec1d7-922a-4858-a5bb-13452ab0b1b5" alt="Cybrary">
 </p>
 
 <p align="center">
@@ -338,7 +343,5 @@ Here are some key highlights of my responsibilities and accomplishments:
 <p align="center">
     <img width="1080" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/f5f82d3f-cc73-40b7-b4b3-6fbd1f6c8d86" alt="Material Bread logo">
 </p>
-
-
 
 
