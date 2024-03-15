@@ -203,10 +203,6 @@ Here are some key highlights of my responsibilities and accomplishments:
 </p>
 
 <p align="center">
-    <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/bd62f500-6f7d-45bc-b81a-295aa0a7e92e" alt="14- Sophos Wireless Sales Consulant">
-</p>
-
-<p align="center">
     <img width="720" src="https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/bd62f500-6f7d-45bc-b81a-295aa0a7e92e" alt="15- Phish Threat Sales Consultant">
 </p>
 
