@@ -5,6 +5,7 @@
 <h1 align="center"> Introduction </h1>
 
 👋 Hi, I’m Mohammad Salameh
+
 I specialize in IT infrastructure, systems, and networks — with a strong focus on delivering secure, scalable, and reliable solutions across enterprise environments.
 
 🔧 My expertise includes:
