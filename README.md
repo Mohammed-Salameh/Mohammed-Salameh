@@ -14,7 +14,7 @@ Build and secure complex infrastructures using VMware, Hyper-V, XenServer, RedHa
 
 Manage Microsoft enterprise stack: ADDS, Azure AD Connect, Exchange, GPOs, MS 365, DNS, WSUS
 
-Automate, monitor, and orchestrate using Ansible, PowerShell, Docker, Kubernetes, Grafana, and Prometheus
+Automate, monitor, and orchestrate using Ansible, PowerShell, Docker, Grafana, and Prometheus
 
 Administer Linux systems and configure open-source tools for secure, high-availability operations
 
