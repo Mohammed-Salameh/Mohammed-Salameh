@@ -6,23 +6,27 @@
 
 👋 Hi, I’m Mohammad Salameh
 
-I specialize in IT infrastructure, systems, and networks — with a strong focus on delivering secure, scalable, and reliable solutions across enterprise environments.
+I’m an IT infrastructure professional with a strong focus on delivering secure, scalable, and high-performance environments across on-premises and cloud platforms. My work spans the full spectrum of infrastructure — from designing resilient networks and managing virtualized environments to deploying firewalls, orchestrating cloud services, and optimizing system performance.
 
-🔧 My expertise includes:
+🛠️ What I do best:
 
-Server and network architecture
+Build and secure complex infrastructures using VMware, Hyper-V, XenServer, RedHat, Ovirt, and more
 
-Firewalls, VPNs, and endpoint security
+Manage Microsoft enterprise stack: ADDS, Azure AD Connect, Exchange, GPOs, MS 365, DNS, WSUS
 
-Microsoft 365, Active Directory, and Azure integration
+Automate, monitor, and orchestrate using Ansible, PowerShell, Docker, Kubernetes, Grafana, and Prometheus
 
-CUCM administration and VoIP systems
+Administer Linux systems and configure open-source tools for secure, high-availability operations
 
-IT compliance, risk management, and documentation
+Architect and maintain hybrid cloud setups across AWS (EC2, S3, IAM, VPC) and on-premise servers
 
-I’m execution-driven — taking ownership of tasks from sourcing to delivery without the need for oversight. I work with precision, handle pressure calmly, and consistently push for solutions that are both technically sound and aligned with business goals.
+Configure and manage network security using Fortinet, Sophos, Vyos, Cisco, Mikrotik, Unifi, and Aruba
 
-I value clean implementations, structured documentation, and disciplined operations. Always improving, always adapting
+Deliver VOIP infrastructure (CUCM, Asterisk), endpoint protection, backups, and IT documentation
+
+Lead solutions end-to-end: identifying needs, sourcing tools, deploying systems, and optimizing results
+
+🔍 I work with clarity and speed — solving problems independently, ensuring quality execution, and aligning IT operations with business needs. Whether building from the ground up or transforming existing environments, I operate with ownership and strategic precision.
 
 <h2 align="center"> Experience </h2>
 
