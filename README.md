@@ -49,7 +49,7 @@ Lead solutions end-to-end: identifying needs, sourcing tools, deploying systems,
 
 - Implement comprehensive monitoring solutions with Prometheus, Grafana, Loki, and Graphite, providing deep insights into IT infrastructure health and performance.
 
-- Drive IT automation and orchestration using Ansible, GitHub, Docker, and Kubernetes, significantly improving operational efficiency and deployment speed.
+- Drive IT automation and orchestration using Ansible, GitHub, Docker, significantly improving operational efficiency and deployment speed.
 
 - Manage backup and recovery processes with Restic, OneDrive, Google Drive, ensuring data integrity and availability.
 
@@ -106,7 +106,6 @@ Lead solutions end-to-end: identifying needs, sourcing tools, deploying systems,
 ![engineer](https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/d6aaa7ea-12ca-40c9-9c4b-c8139142f9fd)
 ![endpoiny](https://github.com/Mohammed-Salameh/Mohammed-Salameh/assets/140098574/558a08aa-f5b9-43fa-8943-64338806a903)
 ![1375663](https://github.com/user-attachments/assets/bc6719d2-2228-42ea-8f98-142104e23ede)
-![download](https://github.com/user-attachments/assets/fa9651e1-85b7-4aea-ad0f-0735d29b9213)
 
 
 <p align="center">
