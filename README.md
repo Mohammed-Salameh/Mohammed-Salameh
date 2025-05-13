@@ -64,12 +64,6 @@ Lead solutions end-to-end: identifying needs, sourcing tools, deploying systems,
 
 ##
 
-
-<p align="center">
-    <img width="200" src="https://media.licdn.com/dms/image/C4E0BAQH3skcGVQZjPQ/company-logo_200_200/0/1631310418725?e=1717027200&v=beta&t=GNtEKDCcKwvIEzuWgWpcF5BoW4VXrCFtoRQJ6VEp228" alt="Material Bread logo">
-</p>
-
-
 <h3 align="center"> Networks Engineer - Kaizen365 Technology - Amman,Jordan - NOV-2020-Oct-2022 </h3>
 
 
@@ -113,11 +107,6 @@ Lead solutions end-to-end: identifying needs, sourcing tools, deploying systems,
 </p>
 
 ##
-
-<p align="center">
-    <img width="200" src="https://media.licdn.com/dms/image/C4E0BAQEYzHMjFxxB1w/company-logo_200_200/0/1656936675895/offtec_logo?e=1717027200&v=beta&t=uT2U3RVikY4Pc2sKpvT2LKsQG_TNx-lpiJOEgklDhoA" alt="Material Bread logo">
-</p>
-
 
 <h3 align="center"> Technical Support Engineer IT Infrastructure - OFFTEC Internatinal - AUG-2018-NOV-2020 </h3>
 
